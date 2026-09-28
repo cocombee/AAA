@@ -4,9 +4,9 @@ import { Button } from "@/components/ui/button";
 import { type Course, money } from "@/lib/preview-courses";
 import { Icon } from "./icon";
 
-export function CourseCover({course}: {course: Course}) {
+export function CourseCover({course, sizes = "(max-width: 700px) 50vw, (max-width: 1150px) 45vw, 24vw"}: {course: Course; sizes?: string}) {
   return <div className={`course-cover cover-${course.cover}`} aria-hidden="true">
-    <Image src={assetPath(`/images/course-${course.id}-crisp.webp`)} alt="" fill quality={90} sizes="(max-width: 700px) 50vw, (max-width: 1150px) 45vw, 24vw" className="course-cover-photo" />
+    <Image src={assetPath(`/images/course-${course.id}-crisp.webp`)} alt="" fill quality={90} sizes={sizes} className="course-cover-photo" />
     <div className="cover-shade" />
     <div className="cover-title">{course.shortTitle}</div>
     <span className="cover-label">{course.topic}</span>

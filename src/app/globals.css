@@ -415,10 +415,10 @@ h3 { font-size: var(--font-h4); line-height: 1.35; letter-spacing: -.5px; font-w
 
 }
 
-/* Mobile uses 70% of the shared desktop type and spacing roles, rounded to whole pixels. */
-@media (max-width: 700px) {:root { --font-h1: 50px; --font-h2: 28px; --font-h3: 17px; --font-h4: 13px; --font-paragraph: 11px; --font-small: 9px; --card-space: 28px; --card-stack-gap: 56px; --card-inline-gap: 28px; --spacing-medium: 15px; --spacing-small: 5px; --teaser-copy-gap: 2px; --compact-stack-gap: 8px; --spacing-extra-large: 56px; --spacing-large: 27px; --mvp-inset: 42px; --accordion-inset-y: 14px; --button-height-default: 34px; --button-height-sm: 31px; --button-height-lg: 36px; --button-inset-default: 14px; --button-inset-sm: 11px; --button-inset-lg: 17px; --button-gap: 6px; --path-icon-box: 39px; }
+/* Mobile roles follow the approved AAA type and spacing endpoints. */
+@media (max-width: 700px) {:root { --font-h1: 32px; --font-h2: 28px; --font-h3: 20px; --font-h4: 16px; --font-paragraph: 14px; --font-small: 12px; --card-space: 20px; --card-stack-gap: 24px; --card-inline-gap: 8px; --spacing-medium: 12px; --spacing-small: 6px; --teaser-copy-gap: 4px; --compact-stack-gap: 8px; --spacing-extra-large: 48px; --spacing-large: 24px; --mvp-inset: 20px; --accordion-inset-y: 12px; --button-height-default: 44px; --button-height-sm: 44px; --button-height-lg: 48px; --button-inset-default: 16px; --button-inset-sm: 16px; --button-inset-lg: 20px; --button-gap: 8px; --path-icon-box: 48px; }
 html { scroll-padding-top: 88px; }
-.page-shell { padding-inline: 28px; }
+.page-shell { padding-inline: 20px; }
 .draft-bar { font-size: var(--font-small); gap: 6px; }
 .draft-dot,.draft-divider { display: none; }
 .draft-bar>span:last-child { max-width: 225px; }
@@ -1028,9 +1028,9 @@ html { scroll-padding-top: 88px; }
   .course-cover .cover-title { max-width: 100%; line-height: 1.15; letter-spacing: -.5px; }
   .course-cover .cover-label { bottom: var(--spacing-large); left: var(--card-space); }
   .course-content { display: none; }
-  .course-compact { padding: var(--spacing-medium) var(--card-space) var(--card-space); display: flex; flex-direction: column; gap: 0; min-width: 0; }
+  .course-compact { padding: var(--spacing-medium) 12px 12px; display: flex; flex-direction: column; gap: 0; min-width: 0; }
   .course-compact-format { margin-bottom: var(--spacing-medium); font-size: var(--font-small); line-height: 1.2; color: #657285; text-box-trim: trim-both; text-box-edge: cap alphabetic; }
-  .course-compact h3 { margin: 0 0 var(--spacing-small); color: var(--fahami-background); font-size: var(--font-h4); font-weight: 650; line-height: 1.2; letter-spacing: -.25px; white-space: nowrap; text-box-trim: trim-both; text-box-edge: cap alphabetic; }
+  .course-compact h3 { margin: 0 0 var(--spacing-small); color: var(--fahami-background); font-size: var(--font-h4); font-weight: 650; line-height: 1.375; letter-spacing: -.25px; display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 3; overflow: hidden; }
   .course-compact-meta { margin-bottom: var(--spacing-small); font-size: var(--font-small); line-height: 1.2; color: #657285; white-space: nowrap; text-box-trim: trim-both; text-box-edge: cap alphabetic; }
   .course-compact-bottom { height: 24px; display: flex; justify-content: space-between; align-items: center; gap: 4px; }
   .course-compact-bottom strong { color: var(--fahami-background); font-size: var(--font-h4); font-weight: 650; line-height: 24px; }
@@ -1064,8 +1064,9 @@ html { scroll-padding-top: 88px; }
 .catalog-section .section-heading > div { width: 100%; }
 .catalog-section .section-heading .eyebrow { justify-content: center; }
 .catalog-section .section-heading p { margin-top: 12px; }
-.catalog-section .catalog-tools { display: block; }
-.catalog-section .catalog-search { max-width: none; width: 100%; color: var(--fahami-background); }
+.catalog-section .catalog-tools { display: flex; }
+.catalog-section .catalog-search { max-width: none; min-width: 0; width: 100%; color: var(--fahami-background); }
+.catalog-section .format-select { flex: none; }
 .catalog-section .catalog-search > .figma-inline-icon { position: absolute; left: 16px; top: 50%; transform: translateY(-50%); z-index: 1; }
 .catalog-section .catalog-search input { height: 66px; padding-left: 48px; padding-right: calc(var(--button-height-sm) + var(--spacing-medium) * 2); background: var(--muted); border: 0; border-radius: var(--action-radius); font-size: var(--font-paragraph); }
 .catalog-section .catalog-reset[data-slot=button] { position: absolute; right: var(--spacing-medium); top: 50%; transform: translateY(-50%); width: var(--button-height-sm); height: var(--button-height-sm); min-width: var(--button-height-sm); padding: 0; color: var(--fahami-background); background: transparent; border-radius: var(--action-radius); }
@@ -1149,6 +1150,9 @@ html { scroll-padding-top: 88px; }
 
 /* Unclassified insets also scale to 70% on mobile until assigned a spacing role. */
 @media (max-width: 700px) {
+  .catalog-section .catalog-tools { flex-direction: column; align-items: stretch; }
+  .catalog-section .format-select { justify-content: space-between; }
+  .catalog-section .format-select select { min-width: 170px; }
   .skip-link { padding: 11px; }
   .draft-bar { padding: 4px 11px; }
   .academy-logo { padding: 2px; }

@@ -1,5 +1,6 @@
 import { notFound } from "next/navigation";
 import screens from "@/lib/figma-flow-screens.json";
+import { previewEnabled } from "@/lib/supabase/config";
 import { FlowScreen } from "@/components/flow/flow-screen";
 import "@/components/flow/flow.css";
 
@@ -9,6 +10,7 @@ export function generateStaticParams() {
 
 export default async function FlowPage({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
+  if (!previewEnabled()) notFound();
   const screen = screens.find((item) => item.slug === slug);
   if (!screen) notFound();
   return <FlowScreen screen={screen} />;
