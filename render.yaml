@@ -1,0 +1,24 @@
+# Test service only. No paid compute, additional database, disk or worker.
+services:
+  - type: web
+    name: aaa-website-test
+    runtime: node
+    region: singapore
+    plan: free
+    buildCommand: npm ci && npm run build
+    startCommand: npm run start:host -- --port $PORT
+    healthCheckPath: /v2
+    autoDeployTrigger: off
+    envVars:
+      - key: NODE_VERSION
+        value: 24.21.0
+      - key: NEXT_PUBLIC_AAA_BASE_PATH
+        value: /v2
+      - key: NEXT_PUBLIC_SUPABASE_URL
+        value: https://sdirrdofdxqmjoppttkw.supabase.co
+      - key: NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY
+        sync: false
+      - key: AAA_SITE_ORIGIN
+        sync: false
+      - key: AAA_ENABLE_PREVIEW
+        value: "false"

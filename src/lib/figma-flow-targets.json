@@ -1,0 +1,543 @@
+[
+  {
+    "slug": "public-02-programme-sales",
+    "targets": [
+      "public-14-pakej-standard",
+      "public-07-policies"
+    ]
+  },
+  {
+    "slug": "public-03-class-catalogue",
+    "targets": [
+      "public-09-class-comparison",
+      "public-06-help-and-faq"
+    ]
+  },
+  {
+    "slug": "public-04-topic-and-comparison",
+    "targets": [
+      "public-09-class-comparison",
+      "public-03-class-catalogue"
+    ]
+  },
+  {
+    "slug": "public-05-about-and-instructor",
+    "targets": [
+      "public-02-programme-sales",
+      "public-06-help-and-faq"
+    ]
+  },
+  {
+    "slug": "public-06-help-and-faq",
+    "targets": [
+      "member-37-bantuan-peserta",
+      "public-07-policies"
+    ]
+  },
+  {
+    "slug": "public-07-policies",
+    "targets": [
+      "public-02-programme-sales",
+      "public-06-help-and-faq"
+    ]
+  },
+  {
+    "slug": "public-08-owned-resources",
+    "targets": []
+  },
+  {
+    "slug": "public-09-class-comparison",
+    "targets": [
+      "public-02-programme-sales",
+      "public-06-help-and-faq"
+    ]
+  },
+  {
+    "slug": "public-10-aaa-class-sales",
+    "targets": []
+  },
+  {
+    "slug": "public-11-filtered-class-catalogue",
+    "targets": [
+      "public-10-aaa-class-sales",
+      "public-03-class-catalogue"
+    ]
+  },
+  {
+    "slug": "public-12-labursaham-campaign-landing",
+    "targets": [
+      "public-02-programme-sales",
+      "public-03-class-catalogue"
+    ]
+  },
+  {
+    "slug": "public-13-log-masuk",
+    "targets": []
+  },
+  {
+    "slug": "public-14-pakej-standard",
+    "targets": [
+      "public-16-tambahan-pilihan",
+      "public-02-programme-sales"
+    ]
+  },
+  {
+    "slug": "public-15-pakej-bimbingan",
+    "targets": [
+      "public-18-tambahan-bimbingan",
+      "public-02-programme-sales"
+    ]
+  },
+  {
+    "slug": "public-16-tambahan-pilihan",
+    "targets": [
+      "public-19-semak-standard",
+      "public-15-pakej-bimbingan"
+    ]
+  },
+  {
+    "slug": "public-17-workbook-ditambah",
+    "targets": [
+      "public-20-semak-workbook",
+      "public-14-pakej-standard"
+    ]
+  },
+  {
+    "slug": "public-18-tambahan-bimbingan",
+    "targets": [
+      "public-21-semak-bimbingan",
+      "public-15-pakej-bimbingan"
+    ]
+  },
+  {
+    "slug": "public-19-semak-standard",
+    "targets": [
+      "public-22-kaedah-bayaran",
+      "public-16-tambahan-pilihan"
+    ]
+  },
+  {
+    "slug": "public-20-semak-workbook",
+    "targets": [
+      "public-22-kaedah-bayaran",
+      "public-17-workbook-ditambah"
+    ]
+  },
+  {
+    "slug": "public-21-semak-bimbingan",
+    "targets": [
+      "public-22-kaedah-bayaran",
+      "public-18-tambahan-bimbingan"
+    ]
+  },
+  {
+    "slug": "public-22-kaedah-bayaran",
+    "targets": [
+      "public-27-pembayaran-fpx",
+      "public-21-semak-bimbingan"
+    ]
+  },
+  {
+    "slug": "public-23-bayaran-sedang-disemak",
+    "targets": [
+      null,
+      "member-26-akaun-utama"
+    ]
+  },
+  {
+    "slug": "public-24-tempahan-disahkan",
+    "targets": [
+      "member-27-tempahan-saya",
+      "member-33-resit-tempahan"
+    ]
+  },
+  {
+    "slug": "public-25-bayaran-tidak-selesai",
+    "targets": [
+      null,
+      "public-06-help-and-faq"
+    ]
+  },
+  {
+    "slug": "public-26-pratonton-bayaran",
+    "targets": [
+      "public-27-pembayaran-fpx",
+      "public-22-kaedah-bayaran"
+    ]
+  },
+  {
+    "slug": "public-27-pembayaran-fpx",
+    "targets": [
+      null,
+      "public-22-kaedah-bayaran"
+    ]
+  },
+  {
+    "slug": "public-28-pembayaran-kad",
+    "targets": [
+      null,
+      "public-22-kaedah-bayaran"
+    ]
+  },
+  {
+    "slug": "member-26-akaun-utama",
+    "targets": [
+      "member-28-maklumat-zoom",
+      null
+    ]
+  },
+  {
+    "slug": "member-27-tempahan-saya",
+    "targets": [
+      "member-28-maklumat-zoom",
+      "member-29-tiket-fizikal"
+    ]
+  },
+  {
+    "slug": "member-28-maklumat-zoom",
+    "targets": [
+      null,
+      "member-31-bahan-kelas"
+    ]
+  },
+  {
+    "slug": "member-29-tiket-fizikal",
+    "targets": [
+      "member-30-kod-tiket",
+      null
+    ]
+  },
+  {
+    "slug": "member-30-kod-tiket",
+    "targets": [
+      "member-29-tiket-fizikal",
+      "member-37-bantuan-peserta"
+    ]
+  },
+  {
+    "slug": "member-31-bahan-kelas",
+    "targets": [
+      "state-70-buka-bahan-kelas",
+      "state-68-replay-tersedia"
+    ]
+  },
+  {
+    "slug": "member-32-bayaran-saya",
+    "targets": [
+      "member-33-resit-tempahan",
+      "state-76-status-belum-tersedia"
+    ]
+  },
+  {
+    "slug": "member-33-resit-tempahan",
+    "targets": [
+      null,
+      "member-34-mohon-refund"
+    ]
+  },
+  {
+    "slug": "member-34-mohon-refund",
+    "targets": [
+      null,
+      "member-27-tempahan-saya"
+    ]
+  },
+  {
+    "slug": "member-35-tukar-sesi",
+    "targets": [
+      null,
+      "member-27-tempahan-saya"
+    ]
+  },
+  {
+    "slug": "member-36-profil-saya",
+    "targets": [
+      null,
+      "member-26-akaun-utama"
+    ]
+  },
+  {
+    "slug": "member-37-bantuan-peserta",
+    "targets": [
+      null,
+      "member-41-status-pertanyaan"
+    ]
+  },
+  {
+    "slug": "member-38-keselamatan-akaun",
+    "targets": [
+      null,
+      "member-37-bantuan-peserta"
+    ]
+  },
+  {
+    "slug": "member-39-pilihan-notifikasi",
+    "targets": [
+      null,
+      "member-26-akaun-utama"
+    ]
+  },
+  {
+    "slug": "member-40-privasi-akaun",
+    "targets": [
+      null,
+      "member-37-bantuan-peserta"
+    ]
+  },
+  {
+    "slug": "member-41-status-pertanyaan",
+    "targets": [
+      null,
+      "member-37-bantuan-peserta"
+    ]
+  },
+  {
+    "slug": "member-42-kelas-selesai",
+    "targets": []
+  },
+  {
+    "slug": "staff-43-ringkasan-staf",
+    "targets": [
+      "staff-48-sesi-dan-kapasiti",
+      "staff-58-sokongan-staf"
+    ]
+  },
+  {
+    "slug": "staff-44-senarai-program",
+    "targets": [
+      "staff-45-edit-program",
+      "staff-45-edit-program"
+    ]
+  },
+  {
+    "slug": "staff-45-edit-program",
+    "targets": [
+      null,
+      "staff-46-semak-penerbitan"
+    ]
+  },
+  {
+    "slug": "staff-46-semak-penerbitan",
+    "targets": [
+      null,
+      "staff-44-senarai-program"
+    ]
+  },
+  {
+    "slug": "staff-47-pakej-dan-tambahan",
+    "targets": [
+      null,
+      null
+    ]
+  },
+  {
+    "slug": "staff-48-sesi-dan-kapasiti",
+    "targets": [
+      "staff-49-edit-sesi",
+      "staff-49-edit-sesi"
+    ]
+  },
+  {
+    "slug": "staff-49-edit-sesi",
+    "targets": [
+      null,
+      "staff-50-senarai-peserta"
+    ]
+  },
+  {
+    "slug": "staff-50-senarai-peserta",
+    "targets": [
+      "staff-51-check-in-peserta",
+      "staff-57-kehadiran-dan-selesai"
+    ]
+  },
+  {
+    "slug": "staff-51-check-in-peserta",
+    "targets": [
+      null,
+      "staff-50-senarai-peserta"
+    ]
+  },
+  {
+    "slug": "staff-52-akses-peserta",
+    "targets": [
+      "staff-53-beri-akses-khas",
+      "staff-59-peranan-dan-sejarah"
+    ]
+  },
+  {
+    "slug": "staff-53-beri-akses-khas",
+    "targets": [
+      null,
+      "staff-52-akses-peserta"
+    ]
+  },
+  {
+    "slug": "staff-54-bayaran-dan-pengecualian",
+    "targets": [
+      null,
+      "staff-55-semak-refund"
+    ]
+  },
+  {
+    "slug": "staff-55-semak-refund",
+    "targets": [
+      null,
+      "staff-58-sokongan-staf"
+    ]
+  },
+  {
+    "slug": "staff-56-perubahan-sesi",
+    "targets": [
+      null,
+      null
+    ]
+  },
+  {
+    "slug": "staff-57-kehadiran-dan-selesai",
+    "targets": [
+      null,
+      null
+    ]
+  },
+  {
+    "slug": "staff-58-sokongan-staf",
+    "targets": [
+      null,
+      null
+    ]
+  },
+  {
+    "slug": "staff-59-peranan-dan-sejarah",
+    "targets": [
+      null,
+      null
+    ]
+  },
+  {
+    "slug": "state-60-pemulihan-akaun",
+    "targets": [
+      "member-26-akaun-utama",
+      "member-37-bantuan-peserta"
+    ]
+  },
+  {
+    "slug": "state-61-sesi-akaun-tamat",
+    "targets": [
+      "member-26-akaun-utama",
+      "member-37-bantuan-peserta"
+    ]
+  },
+  {
+    "slug": "state-62-akaun-baharu",
+    "targets": [
+      "public-02-programme-sales",
+      "member-36-profil-saya"
+    ]
+  },
+  {
+    "slug": "state-63-tiada-hasil-carian",
+    "targets": [
+      "public-03-class-catalogue",
+      "public-03-class-catalogue"
+    ]
+  },
+  {
+    "slug": "state-64-sesi-penuh",
+    "targets": [
+      "public-02-programme-sales",
+      "public-06-help-and-faq"
+    ]
+  },
+  {
+    "slug": "state-65-tempoh-tempahan-tamat",
+    "targets": [
+      "public-02-programme-sales",
+      "public-02-programme-sales"
+    ]
+  },
+  {
+    "slug": "state-66-harga-atau-pakej-berubah",
+    "targets": [
+      "public-14-pakej-standard",
+      "public-02-programme-sales"
+    ]
+  },
+  {
+    "slug": "state-67-pautan-zoom-belum-dibuka",
+    "targets": [
+      null,
+      "member-31-bahan-kelas"
+    ]
+  },
+  {
+    "slug": "state-68-replay-tersedia",
+    "targets": [
+      "state-70-buka-bahan-kelas",
+      "member-31-bahan-kelas"
+    ]
+  },
+  {
+    "slug": "state-69-akses-replay-tamat",
+    "targets": [
+      "state-70-buka-bahan-kelas",
+      "member-37-bantuan-peserta"
+    ]
+  },
+  {
+    "slug": "state-70-buka-bahan-kelas",
+    "targets": [
+      null,
+      "member-31-bahan-kelas"
+    ]
+  },
+  {
+    "slug": "state-71-refund-sedang-diproses",
+    "targets": [
+      "member-32-bayaran-saya",
+      "member-37-bantuan-peserta"
+    ]
+  },
+  {
+    "slug": "state-72-refund-disahkan",
+    "targets": [
+      "member-32-bayaran-saya",
+      "member-26-akaun-utama"
+    ]
+  },
+  {
+    "slug": "state-73-check-in-diterima",
+    "targets": [
+      "staff-51-check-in-peserta",
+      "staff-50-senarai-peserta"
+    ]
+  },
+  {
+    "slug": "state-74-check-in-berulang",
+    "targets": [
+      "staff-50-senarai-peserta",
+      "staff-51-check-in-peserta"
+    ]
+  },
+  {
+    "slug": "state-75-tiket-tidak-sepadan",
+    "targets": [
+      "staff-50-senarai-peserta",
+      "staff-51-check-in-peserta"
+    ]
+  },
+  {
+    "slug": "state-76-status-belum-tersedia",
+    "targets": [
+      null,
+      "public-06-help-and-faq"
+    ]
+  },
+  {
+    "slug": "state-77-tiada-sambungan",
+    "targets": [
+      null,
+      "member-26-akaun-utama"
+    ]
+  }
+]

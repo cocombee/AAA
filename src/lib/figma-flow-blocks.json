@@ -1,0 +1,1297 @@
+[
+  {
+    "slug": "public-02-programme-sales",
+    "blocks": [
+      {
+        "kind": "AaaInfoCard",
+        "description": "Fahami instrumen, proses dan sumber maklumat.",
+        "subtitle": "01 · ASAS",
+        "title": "Kenali pasaran"
+      },
+      {
+        "kind": "AaaInfoCard",
+        "description": "Selaraskan matlamat dengan toleransi risiko anda.",
+        "subtitle": "02 · RISIKO",
+        "title": "Urus risiko"
+      },
+      {
+        "kind": "AaaInfoCard",
+        "description": "Bina kefahaman melalui contoh dan perbincangan.",
+        "subtitle": "03 · PRAKTIK",
+        "title": "Latihan dan soalan"
+      },
+      {
+        "kind": "AaaInfoCard",
+        "description": "Pengajar sesi LaburSaham bersama Asri Ahmad Academy.",
+        "subtitle": "BELAJAR BERSAMA",
+        "title": "Dato Haji Asri"
+      },
+      {
+        "kind": "AaaFaqRow",
+        "question": "Apa yang termasuk dalam pakej?"
+      },
+      {
+        "kind": "AaaFaqRow",
+        "question": "Bagaimana pembatalan atau perubahan tarikh?"
+      }
+    ]
+  },
+  {
+    "slug": "public-03-class-catalogue",
+    "blocks": []
+  },
+  {
+    "slug": "public-04-topic-and-comparison",
+    "blocks": [
+      {
+        "kind": "AaaInfoCard",
+        "description": "17 Okt · 3 jam · Belajar dari tempat anda.",
+        "subtitle": "RM199",
+        "title": "Online langsung"
+      },
+      {
+        "kind": "AaaInfoCard",
+        "description": "7 Nov · 1 hari · Latihan bersama di Shah Alam.",
+        "subtitle": "RM299",
+        "title": "Fizikal"
+      }
+    ]
+  },
+  {
+    "slug": "public-05-about-and-instructor",
+    "blocks": [
+      {
+        "kind": "AaaInfoCard",
+        "description": "AAA membina program untuk peserta baharu dan mereka yang ingin memperkemas kefahaman.",
+        "subtitle": "PENDEKATAN AAA",
+        "title": "Belajar, berlatih dan bertanya."
+      },
+      {
+        "kind": "AaaInfoCard",
+        "description": "Membimbing sesi LaburSaham bersama AAA.",
+        "subtitle": "PENGAJAR",
+        "title": "Dato Haji Asri"
+      },
+      {
+        "kind": "AaaInfoCard",
+        "description": "Kandungan kelas membantu anda memahami pasaran dan risiko. Keputusan pelaburan kekal milik peserta.",
+        "subtitle": "MATLAMAT",
+        "title": "Pendidikan dengan kefahaman"
+      }
+    ]
+  },
+  {
+    "slug": "public-06-help-and-faq",
+    "blocks": [
+      {
+        "kind": "AaaFaqRow"
+      },
+      {
+        "kind": "AaaFaqRow",
+        "question": "Di mana ticket atau Zoom saya?"
+      },
+      {
+        "kind": "AaaFaqRow",
+        "question": "Adakah replay disertakan?"
+      },
+      {
+        "kind": "AaaFaqRow",
+        "question": "Bayaran belum disahkan?"
+      },
+      {
+        "kind": "AaaFaqRow",
+        "question": "Bolehkah saya tukar tarikh?"
+      }
+    ]
+  },
+  {
+    "slug": "public-07-policies",
+    "blocks": [
+      {
+        "kind": "AaaInfoCard",
+        "description": "Permohonan disemak mengikut polisi pengambilan dan manfaat yang telah digunakan. Rujukan pesanan diperlukan.",
+        "subtitle": "",
+        "title": "Pembatalan dan refund"
+      },
+      {
+        "kind": "AaaInfoCard",
+        "description": "Semak sesi yang masih tersedia. Permohonan belum mengubah tempahan sehingga disahkan AAA.",
+        "subtitle": "",
+        "title": "Jadual semula"
+      },
+      {
+        "kind": "AaaInfoCard",
+        "description": "Manfaat serta tempoh akses ditunjukkan semasa semakan dan pada pesanan anda.",
+        "subtitle": "",
+        "title": "Replay dan bahan"
+      },
+      {
+        "kind": "AaaInfoCard",
+        "description": "Urus maklumat dan permintaan data melalui akaun. Bantuan tersedia untuk isu akses.",
+        "subtitle": "",
+        "title": "Privasi dan akaun"
+      },
+      {
+        "kind": "AaaInfoCard",
+        "description": "Semak identiti penjual, sesi, manfaat pakej dan jumlah sebelum pembayaran.",
+        "subtitle": "",
+        "title": "Terma pembelian"
+      }
+    ]
+  },
+  {
+    "slug": "public-08-owned-resources",
+    "blocks": [
+      {
+        "kind": "AaaInfoCard",
+        "description": "Kenali proses pasaran dan cara membina kefahaman.",
+        "subtitle": "ARTIKEL",
+        "title": "Mulakan dengan asas"
+      },
+      {
+        "kind": "AaaInfoCard",
+        "description": "Dengar perspektif tentang disiplin dan pendidikan pelaburan.",
+        "subtitle": "PODCAST",
+        "title": "Perbincangan bersama AAA"
+      }
+    ]
+  },
+  {
+    "slug": "public-09-class-comparison",
+    "blocks": [
+      {
+        "kind": "AaaDetailsTableRows4",
+        "label1": "Tahap",
+        "label2": "Tempoh",
+        "label3": "Format",
+        "label4": "Harga",
+        "value1": "Asas",
+        "value2": "3 jam",
+        "value3": "Online",
+        "value4": "RM199"
+      },
+      {
+        "kind": "AaaDetailsTableRows4",
+        "label1": "Tahap",
+        "label2": "Tempoh",
+        "label3": "Format",
+        "label4": "Harga",
+        "value1": "Asas",
+        "value2": "1 hari",
+        "value3": "Fizikal",
+        "value4": "RM299"
+      }
+    ]
+  },
+  {
+    "slug": "public-10-aaa-class-sales",
+    "blocks": [
+      {
+        "kind": "AaaDetailsTableRows4",
+        "label2": "Lokasi",
+        "label3": "Tempoh",
+        "label4": "Tahap",
+        "value1": "24 Okt 2026",
+        "value2": "Kuala Lumpur",
+        "value3": "1 hari",
+        "value4": "Pertengahan"
+      },
+      {
+        "kind": "AaaInfoCard",
+        "description": "Kenali pergerakan harga dan asas pembacaan carta.",
+        "subtitle": "01 · KEFAHAMAN",
+        "title": "Struktur carta"
+      },
+      {
+        "kind": "AaaInfoCard",
+        "description": "Bincangkan contoh dan cara menilai keputusan.",
+        "subtitle": "02 · PRAKTIK",
+        "title": "Latihan berpandu"
+      },
+      {
+        "kind": "AaaInfoCard",
+        "description": "Hubungkan analisis dengan toleransi risiko anda.",
+        "subtitle": "03 · KONTEKS",
+        "title": "Risiko dan disiplin"
+      },
+      {
+        "kind": "AaaFaqRow",
+        "question": "Apakah prasyarat kelas?"
+      },
+      {
+        "kind": "AaaFaqRow",
+        "question": "Apa yang perlu dibawa?"
+      }
+    ]
+  },
+  {
+    "slug": "public-11-filtered-class-catalogue",
+    "blocks": []
+  },
+  {
+    "slug": "public-12-labursaham-campaign-landing",
+    "blocks": [
+      {
+        "kind": "AaaInfoCard",
+        "description": "Kenali proses dan sumber maklumat.",
+        "subtitle": "",
+        "title": "Asas pasaran"
+      },
+      {
+        "kind": "AaaInfoCard",
+        "description": "Bina jangkaan yang sesuai untuk diri anda.",
+        "subtitle": "",
+        "title": "Risiko dan matlamat"
+      },
+      {
+        "kind": "AaaInfoCard",
+        "description": "Fahami melalui contoh dan perbincangan.",
+        "subtitle": "",
+        "title": "Latihan bersama AAA"
+      }
+    ]
+  },
+  {
+    "slug": "public-13-log-masuk",
+    "blocks": [
+      {
+        "kind": "AaaTextBlock",
+        "description": "Semak sesi, tiket fizikal dan maklumat Zoom.",
+        "subtitle": "",
+        "title": "Tempahan dan tiket"
+      },
+      {
+        "kind": "AaaTextBlock",
+        "description": "Dapatkan nota, workbook dan replay yang termasuk dalam pakej anda.",
+        "subtitle": "",
+        "title": "Bahan kelas"
+      },
+      {
+        "kind": "AaaTextBlock",
+        "description": "Lihat status bayaran dan resit tanpa mendaftar semula.",
+        "subtitle": "",
+        "title": "Bayaran"
+      }
+    ]
+  },
+  {
+    "slug": "public-14-pakej-standard",
+    "blocks": [
+      {
+        "kind": "AaaDetailsTableRows2",
+        "label1": "Pakej",
+        "label2": "Jumlah setakat ini",
+        "value1": "Standard",
+        "value2": "RM199"
+      }
+    ]
+  },
+  {
+    "slug": "public-15-pakej-bimbingan",
+    "blocks": [
+      {
+        "kind": "AaaDetailsTableRows2",
+        "label1": "Pakej",
+        "label2": "Jumlah setakat ini",
+        "value1": "Bimbingan",
+        "value2": "RM299"
+      }
+    ]
+  },
+  {
+    "slug": "public-16-tambahan-pilihan",
+    "blocks": [
+      {
+        "kind": "AaaDetailsTableRows2",
+        "label1": "Pakej Standard",
+        "label2": "Jumlah",
+        "value1": "RM199",
+        "value2": "RM199"
+      }
+    ]
+  },
+  {
+    "slug": "public-17-workbook-ditambah",
+    "blocks": [
+      {
+        "kind": "AaaDetailsTableRows3",
+        "label1": "Pakej Standard",
+        "label2": "Workbook",
+        "label3": "Jumlah",
+        "value1": "RM199",
+        "value2": "RM29",
+        "value3": "RM228"
+      }
+    ]
+  },
+  {
+    "slug": "public-18-tambahan-bimbingan",
+    "blocks": [
+      {
+        "kind": "AaaDetailsTableRows2",
+        "label1": "Pakej Bimbingan",
+        "label2": "Jumlah",
+        "value1": "RM299",
+        "value2": "RM299"
+      }
+    ]
+  },
+  {
+    "slug": "public-19-semak-standard",
+    "blocks": [
+      {
+        "kind": "AaaDetailsTableRows5",
+        "label1": "Program",
+        "label2": "Sesi",
+        "label3": "Masa",
+        "label4": "Pakej",
+        "label5": "Jumlah",
+        "value1": "LaburSaham",
+        "value2": "17 Okt 2026 · Online",
+        "value3": "9 pagi – 12 tengah hari · MYT",
+        "value4": "Standard · RM199",
+        "value5": "RM199"
+      },
+      {
+        "kind": "AaaInfoCard",
+        "description": "Saya telah membaca terma pendaftaran dan notis privasi. Pilihan ini mesti disahkan sebelum bayaran.",
+        "subtitle": "BELUM DISAHKAN",
+        "title": "Persetujuan tempahan"
+      }
+    ]
+  },
+  {
+    "slug": "public-20-semak-workbook",
+    "blocks": [
+      {
+        "kind": "AaaDetailsTableRows6",
+        "label1": "Program",
+        "label2": "Sesi",
+        "label3": "Masa",
+        "label4": "Pakej",
+        "label5": "Workbook",
+        "label6": "Jumlah",
+        "value1": "LaburSaham",
+        "value2": "17 Okt 2026 · Online",
+        "value3": "9 pagi – 12 tengah hari · MYT",
+        "value4": "Standard · RM199",
+        "value5": "RM29",
+        "value6": "RM228"
+      },
+      {
+        "kind": "AaaInfoCard",
+        "description": "Saya telah membaca terma pendaftaran dan notis privasi. Pilihan ini mesti disahkan sebelum bayaran.",
+        "subtitle": "BELUM DISAHKAN",
+        "title": "Persetujuan tempahan"
+      }
+    ]
+  },
+  {
+    "slug": "public-21-semak-bimbingan",
+    "blocks": [
+      {
+        "kind": "AaaDetailsTableRows5",
+        "label1": "Program",
+        "label2": "Sesi",
+        "label3": "Masa",
+        "label4": "Pakej",
+        "label5": "Jumlah",
+        "value1": "LaburSaham",
+        "value2": "17 Okt 2026 · Online",
+        "value3": "9 pagi – 12 tengah hari · MYT",
+        "value4": "Bimbingan · RM299",
+        "value5": "RM299"
+      },
+      {
+        "kind": "AaaInfoCard",
+        "description": "Saya telah membaca terma pendaftaran dan notis privasi. Pilihan ini mesti disahkan sebelum bayaran.",
+        "subtitle": "BELUM DISAHKAN",
+        "title": "Persetujuan tempahan"
+      }
+    ]
+  },
+  {
+    "slug": "public-22-kaedah-bayaran",
+    "blocks": [
+      {
+        "kind": "AaaDetailsTableRows2",
+        "label1": "LaburSaham · Standard",
+        "label2": "Peserta",
+        "value1": "RM199",
+        "value2": "Nur Aina Ahmad"
+      }
+    ]
+  },
+  {
+    "slug": "public-23-bayaran-sedang-disemak",
+    "blocks": [
+      {
+        "kind": "AaaNotice",
+        "description": "Pengesahan mungkin mengambil beberapa minit. Anda boleh kembali ke akaun anda.",
+        "title": "Kami sedang menyemak bayaran."
+      },
+      {
+        "kind": "AaaDetailsTableRows3",
+        "label1": "Peserta",
+        "label2": "Sesi",
+        "label3": "Jumlah",
+        "value1": "Nur Aina Ahmad",
+        "value2": "17 Okt 2026 · 9 pagi – 12 tengah hari",
+        "value3": "RM199"
+      }
+    ]
+  },
+  {
+    "slug": "public-24-tempahan-disahkan",
+    "blocks": [
+      {
+        "kind": "AaaNotice",
+        "description": "Maklumat sesi akan dihantar melalui e-mel dan tersedia dalam akaun AAA.",
+        "title": "Anda sudah berdaftar."
+      },
+      {
+        "kind": "AaaDetailsTableRows3",
+        "label1": "Peserta",
+        "label2": "Sesi",
+        "label3": "Jumlah",
+        "value1": "Nur Aina Ahmad",
+        "value2": "17 Okt 2026 · 9 pagi – 12 tengah hari",
+        "value3": "RM199"
+      }
+    ]
+  },
+  {
+    "slug": "public-25-bayaran-tidak-selesai",
+    "blocks": [
+      {
+        "kind": "AaaNotice",
+        "description": "Penyedia bayaran tidak melengkapkan transaksi ini. Tempahan anda belum disahkan.",
+        "title": "Bayaran belum disahkan."
+      },
+      {
+        "kind": "AaaDetailsTableRows3",
+        "label1": "Peserta",
+        "label2": "Sesi",
+        "label3": "Jumlah",
+        "value1": "Nur Aina Ahmad",
+        "value2": "17 Okt 2026 · 9 pagi – 12 tengah hari",
+        "value3": "RM199"
+      }
+    ]
+  },
+  {
+    "slug": "public-26-pratonton-bayaran",
+    "blocks": [
+      {
+        "kind": "AaaDetailsTableRows3",
+        "label1": "Program",
+        "label2": "Peserta",
+        "label3": "Kaedah",
+        "value1": "LaburSaham online · 17 Okt 2026",
+        "value2": "Nur Aina Ahmad",
+        "value3": "FPX · perbankan internet"
+      },
+      {
+        "kind": "AaaNotice",
+        "description": "Pilih bank dan sahkan bayaran di sana. Status tempahan akan disemak selepas anda kembali.",
+        "title": "Anda akan ke halaman pembayaran selamat."
+      }
+    ]
+  },
+  {
+    "slug": "public-27-pembayaran-fpx",
+    "blocks": [
+      {
+        "kind": "AaaDetailsTableRows2",
+        "label1": "Jumlah",
+        "label2": "Kaedah",
+        "value1": "RM199",
+        "value2": "FPX"
+      },
+      {
+        "kind": "AaaNotice",
+        "description": "Log masuk dan sahkan bayaran di sana. AAA tidak meminta kata laluan perbankan anda.",
+        "title": "Anda akan ke laman bank."
+      }
+    ]
+  },
+  {
+    "slug": "public-28-pembayaran-kad",
+    "blocks": [
+      {
+        "kind": "AaaDetailsTableRows2",
+        "label1": "Jumlah",
+        "label2": "Kaedah",
+        "value1": "RM199",
+        "value2": "Kad debit / kredit"
+      },
+      {
+        "kind": "AaaNotice",
+        "description": "Ikuti arahan penyedia dan semak status tempahan selepas kembali ke AAA.",
+        "title": "Pengesahan bank mungkin diperlukan."
+      }
+    ]
+  },
+  {
+    "slug": "member-26-akaun-utama",
+    "blocks": [
+      {
+        "kind": "AaaDetailsTableRows4"
+      },
+      {
+        "kind": "AaaInfoCard",
+        "description": "Sesi online dan fizikal yang telah anda daftar.",
+        "subtitle": "",
+        "title": "Tempahan saya"
+      },
+      {
+        "kind": "AaaInfoCard",
+        "description": "Nota, workbook dan replay mengikut pakej.",
+        "subtitle": "",
+        "title": "Bahan kelas"
+      },
+      {
+        "kind": "AaaInfoCard",
+        "description": "Semak status transaksi dan muat turun resit.",
+        "subtitle": "",
+        "title": "Bayaran & resit"
+      }
+    ]
+  },
+  {
+    "slug": "member-27-tempahan-saya",
+    "blocks": [
+      {
+        "kind": "AaaInfoCard",
+        "description": "9 pagi – 12 tengah hari · Standard · AAA-ONL-001",
+        "subtitle": "DISAHKAN",
+        "title": "17 Okt · LaburSaham online"
+      },
+      {
+        "kind": "AaaInfoCard",
+        "description": "Shah Alam · 9 pagi – 5 petang · AAA-PHY-002",
+        "subtitle": "DISAHKAN",
+        "title": "7 Nov · Bengkel asas saham"
+      }
+    ]
+  },
+  {
+    "slug": "member-28-maklumat-zoom",
+    "blocks": [
+      {
+        "kind": "AaaDetailsTableRows3",
+        "label1": "Peserta",
+        "label2": "Pakej",
+        "label3": "Rujukan",
+        "value1": "Nur Aina Ahmad",
+        "value2": "Standard",
+        "value3": "AAA-ONL-001"
+      },
+      {
+        "kind": "AaaNotice",
+        "description": "Butang sertai tersedia mulai 8:45 pagi pada hari kelas.",
+        "title": "Pautan dibuka 15 minit sebelum sesi"
+      },
+      {
+        "kind": "AaaInfoCard",
+        "description": "Pastikan audio, internet dan aplikasi Zoom tersedia.",
+        "subtitle": "",
+        "title": "Sebelum kelas"
+      },
+      {
+        "kind": "AaaInfoCard",
+        "description": "Replay tersedia jika termasuk dalam pakej anda.",
+        "subtitle": "",
+        "title": "Selepas kelas"
+      }
+    ]
+  },
+  {
+    "slug": "member-29-tiket-fizikal",
+    "blocks": [
+      {
+        "kind": "AaaDetailsTableRows5",
+        "label3": "Lokasi",
+        "label5": "Tempat",
+        "value1": "7 Nov 2026",
+        "value2": "9 pagi – 5 petang",
+        "value3": "Shah Alam · Dewan AAA",
+        "value4": "AAA-PHY-002",
+        "value5": "1 peserta"
+      },
+      {
+        "kind": "AaaInfoCard",
+        "description": "Bawa buku nota dan tiba 30 minit sebelum sesi bermula.",
+        "subtitle": "",
+        "title": "Persediaan kelas"
+      }
+    ]
+  },
+  {
+    "slug": "member-30-kod-tiket",
+    "blocks": [
+      {
+        "kind": "AaaDetailsTableRows2",
+        "label1": "Peserta",
+        "label2": "Status",
+        "value1": "Nur Aina Ahmad",
+        "value2": "Disahkan"
+      },
+      {
+        "kind": "AaaNotice",
+        "description": "Kod kemasukan sebenar akan tersedia untuk tempahan yang disahkan.",
+        "title": "Kod ini contoh reka bentuk"
+      }
+    ]
+  },
+  {
+    "slug": "member-31-bahan-kelas",
+    "blocks": [
+      {
+        "kind": "AaaInfoCard",
+        "description": "Termasuk · 12 halaman · Semak sebelum kelas.",
+        "subtitle": "SEDIA",
+        "title": "Nota LaburSaham · PDF"
+      },
+      {
+        "kind": "AaaInfoCard",
+        "description": "Tambahan RM29 · Belum dibeli.",
+        "subtitle": "PILIHAN",
+        "title": "Workbook latihan"
+      },
+      {
+        "kind": "AaaInfoCard",
+        "description": "Jika termasuk · Akses selama 48 jam selepas diterbitkan.",
+        "subtitle": "SELEPAS SESI",
+        "title": "Replay kelas"
+      }
+    ]
+  },
+  {
+    "slug": "member-32-bayaran-saya",
+    "blocks": [
+      {
+        "kind": "AaaInfoCard",
+        "description": "LaburSaham online · FPX · Resit tersedia.",
+        "subtitle": "DIBAYAR",
+        "title": "AAA-ONL-001 · RM199"
+      },
+      {
+        "kind": "AaaInfoCard",
+        "description": "Bengkel asas saham · Kad · Resit tersedia.",
+        "subtitle": "DIBAYAR",
+        "title": "AAA-PHY-002 · RM299"
+      },
+      {
+        "kind": "AaaInfoCard",
+        "description": "Pengesahan bank belum diterima.",
+        "subtitle": "SEDANG DISEMAK",
+        "title": "AAA-ONL-003 · RM199"
+      }
+    ]
+  },
+  {
+    "slug": "member-33-resit-tempahan",
+    "blocks": [
+      {
+        "kind": "AaaDetailsTableRows6",
+        "label1": "E-mel",
+        "label2": "Program",
+        "label3": "Pakej Standard",
+        "label4": "Jumlah dibayar",
+        "label5": "Kaedah",
+        "label6": "Status",
+        "value1": "aina@example.com",
+        "value2": "LaburSaham · 17 Okt 2026",
+        "value3": "RM199",
+        "value4": "RM199",
+        "value5": "FPX",
+        "value6": "Dibayar · 28 Sep 2026"
+      },
+      {
+        "kind": "AaaInfoCard",
+        "description": "Sesi online langsung dan nota PDF. Workbook belum ditambah.",
+        "subtitle": "",
+        "title": "Termasuk dalam tempahan"
+      }
+    ]
+  },
+  {
+    "slug": "member-34-mohon-refund",
+    "blocks": [
+      {
+        "kind": "AaaTextBlock",
+        "description": "Permohonan anda akan disemak. Perubahan belum disahkan sehingga anda menerima keputusan.",
+        "subtitle": "",
+        "title": "Semakan oleh pasukan AAA"
+      }
+    ]
+  },
+  {
+    "slug": "member-35-tukar-sesi",
+    "blocks": [
+      {
+        "kind": "AaaTextBlock",
+        "description": "Permohonan anda akan disemak. Perubahan belum disahkan sehingga anda menerima keputusan.",
+        "subtitle": "",
+        "title": "Semakan oleh pasukan AAA"
+      }
+    ]
+  },
+  {
+    "slug": "member-36-profil-saya",
+    "blocks": []
+  },
+  {
+    "slug": "member-37-bantuan-peserta",
+    "blocks": []
+  },
+  {
+    "slug": "member-38-keselamatan-akaun",
+    "blocks": [
+      {
+        "kind": "AaaInfoCard",
+        "description": "aina@example.com · Identiti disahkan.",
+        "subtitle": "",
+        "title": "Google disambungkan"
+      },
+      {
+        "kind": "AaaInfoCard",
+        "description": "Peranti ini · Safari · Malaysia",
+        "subtitle": "",
+        "title": "Sesi aktif"
+      },
+      {
+        "kind": "AaaInfoCard",
+        "description": "Hubungi AAA jika anda kehilangan akses ke akaun Google.",
+        "subtitle": "",
+        "title": "Pemulihan akaun"
+      }
+    ]
+  },
+  {
+    "slug": "member-39-pilihan-notifikasi",
+    "blocks": [
+      {
+        "kind": "AaaInfoCard",
+        "description": "Pengesahan, perubahan sesi dan bayaran · Dihidupkan.",
+        "subtitle": "WAJIB",
+        "title": "Maklumat tempahan"
+      },
+      {
+        "kind": "AaaInfoCard",
+        "description": "Peringatan sebelum sesi · Dihidupkan.",
+        "subtitle": "PILIHAN",
+        "title": "Peringatan kelas"
+      },
+      {
+        "kind": "AaaInfoCard",
+        "description": "Promosi dan program baharu · Dimatikan.",
+        "subtitle": "PILIHAN",
+        "title": "Berita program AAA"
+      }
+    ]
+  },
+  {
+    "slug": "member-40-privasi-akaun",
+    "blocks": [
+      {
+        "kind": "AaaInfoCard",
+        "description": "Mohon salinan data akaun dan tempahan anda.",
+        "subtitle": "",
+        "title": "Salinan maklumat"
+      },
+      {
+        "kind": "AaaInfoCard",
+        "description": "Betulkan maklumat yang tidak tepat.",
+        "subtitle": "",
+        "title": "Pembetulan maklumat"
+      },
+      {
+        "kind": "AaaInfoCard",
+        "description": "Permintaan akan disemak bersama kewajipan rekod tempahan.",
+        "subtitle": "",
+        "title": "Pemadaman akaun"
+      },
+      {
+        "kind": "AaaNotice",
+        "description": "Pasukan AAA akan mengesahkan pemilik akaun sebelum memproses permintaan.",
+        "title": "Pengesahan identiti diperlukan"
+      }
+    ]
+  },
+  {
+    "slug": "member-41-status-pertanyaan",
+    "blocks": [
+      {
+        "kind": "AaaDetailsTableRows4",
+        "label1": "Status",
+        "label2": "Dihantar",
+        "label3": "Topik",
+        "label4": "Tempahan",
+        "value1": "Dalam semakan",
+        "value2": "28 Sep 2026",
+        "value3": "Permohonan refund"
+      }
+    ]
+  },
+  {
+    "slug": "member-42-kelas-selesai",
+    "blocks": [
+      {
+        "kind": "AaaNotice",
+        "description": "17 Okt 2026 · LaburSaham online · Standard",
+        "title": "Kehadiran disahkan"
+      },
+      {
+        "kind": "AaaTextBlock",
+        "description": "Ulang kaji mengikut masa anda. Replay tertakluk kepada tempoh akses pakej.",
+        "subtitle": "",
+        "title": "Semak nota dan latihan"
+      }
+    ]
+  },
+  {
+    "slug": "staff-43-ringkasan-staf",
+    "blocks": [
+      {
+        "kind": "AaaInfoCard",
+        "description": "Online 17 Okt · Fizikal 7 Nov",
+        "subtitle": "SESI",
+        "title": "2 sesi akan datang"
+      },
+      {
+        "kind": "AaaInfoCard",
+        "description": "AAA-ONL-003 · RM199",
+        "subtitle": "BAYARAN",
+        "title": "1 bayaran disemak"
+      },
+      {
+        "kind": "AaaInfoCard",
+        "description": "SUP-001 · Refund Standard",
+        "subtitle": "SOKONGAN",
+        "title": "1 kes terbuka"
+      },
+      {
+        "kind": "AaaTextBlock",
+        "description": "Semak kapasiti, maklumat Zoom dan nota sebelum 17 Okt.",
+        "subtitle": "",
+        "title": "Sahkan persediaan sesi online"
+      },
+      {
+        "kind": "AaaTextBlock",
+        "description": "Semak item dibayar dan dokumen sebelum membuat keputusan.",
+        "subtitle": "",
+        "title": "Permohonan refund SUP-001"
+      }
+    ]
+  },
+  {
+    "slug": "staff-44-senarai-program",
+    "blocks": [
+      {
+        "kind": "AaaInfoCard",
+        "description": "Online dan fizikal · Standard RM199 / RM299",
+        "subtitle": "DITERBITKAN",
+        "title": "LaburSaham"
+      },
+      {
+        "kind": "AaaInfoCard",
+        "description": "Fizikal · Pertengahan · RM349",
+        "subtitle": "DRAF",
+        "title": "Baca carta dengan yakin"
+      }
+    ]
+  },
+  {
+    "slug": "staff-45-edit-program",
+    "blocks": []
+  },
+  {
+    "slug": "staff-46-semak-penerbitan",
+    "blocks": [
+      {
+        "kind": "AaaDetailsTableRows5",
+        "label1": "Status",
+        "label2": "Tajuk & media",
+        "label4": "Sesi",
+        "label5": "Semakan terakhir",
+        "value1": "Draf",
+        "value2": "Sedia untuk semakan",
+        "value3": "Standard + Bimbingan",
+        "value4": "17 Okt online · 7 Nov fizikal",
+        "value5": "Pasukan kandungan AAA"
+      },
+      {
+        "kind": "AaaNotice",
+        "description": "Jika sesi atau pakej sedia ada berubah, semak komunikasi dan tempahan yang terlibat.",
+        "title": "Semak kesan kepada peserta"
+      }
+    ]
+  },
+  {
+    "slug": "staff-47-pakej-dan-tambahan",
+    "blocks": [
+      {
+        "kind": "AaaDetailsTableRows3",
+        "label1": "Harga",
+        "label2": "Keserasian",
+        "label3": "Jenis",
+        "value1": "RM29",
+        "value2": "Standard / Bimbingan",
+        "value3": "Tambahan pilihan"
+      }
+    ]
+  },
+  {
+    "slug": "staff-48-sesi-dan-kapasiti",
+    "blocks": [
+      {
+        "kind": "AaaInfoCard",
+        "description": "9 pagi – 12 tengah hari · 42 / 100 peserta",
+        "subtitle": "ONLINE",
+        "title": "17 Okt · LaburSaham online"
+      },
+      {
+        "kind": "AaaInfoCard",
+        "description": "Shah Alam · 58 / 80 peserta",
+        "subtitle": "FIZIKAL",
+        "title": "7 Nov · Bengkel asas saham"
+      }
+    ]
+  },
+  {
+    "slug": "staff-49-edit-sesi",
+    "blocks": []
+  },
+  {
+    "slug": "staff-50-senarai-peserta",
+    "blocks": [
+      {
+        "kind": "AaaInfoCard",
+        "description": "AAA-PHY-002 · Dibayar · Belum check-in",
+        "subtitle": "DISAHKAN",
+        "title": "Nur Aina Ahmad"
+      },
+      {
+        "kind": "AaaInfoCard",
+        "description": "AAA-PHY-004 · Dibayar · Belum check-in",
+        "subtitle": "DISAHKAN",
+        "title": "Hafiz Abdullah"
+      }
+    ]
+  },
+  {
+    "slug": "staff-51-check-in-peserta",
+    "blocks": []
+  },
+  {
+    "slug": "staff-52-akses-peserta",
+    "blocks": [
+      {
+        "kind": "AaaDetailsTableRows5",
+        "label1": "Tempahan",
+        "label2": "Asal akses",
+        "label3": "Nota PDF",
+        "label4": "Replay",
+        "label5": "Workbook",
+        "value1": "AAA-ONL-001",
+        "value2": "Pakej Standard · Dibayar",
+        "value3": "Termasuk",
+        "value4": "48 jam selepas diterbitkan",
+        "value5": "Belum dibeli"
+      }
+    ]
+  },
+  {
+    "slug": "staff-53-beri-akses-khas",
+    "blocks": []
+  },
+  {
+    "slug": "staff-54-bayaran-dan-pengecualian",
+    "blocks": [
+      {
+        "kind": "AaaInfoCard",
+        "description": "FPX · Standard · Resit tersedia",
+        "subtitle": "DIBAYAR",
+        "title": "AAA-ONL-001 · RM199"
+      },
+      {
+        "kind": "AaaInfoCard",
+        "description": "Pengesahan bank belum diterima",
+        "subtitle": "SEDANG DISEMAK",
+        "title": "AAA-ONL-003 · RM199"
+      },
+      {
+        "kind": "AaaInfoCard",
+        "description": "Bayaran lewat diterima selepas tempahan tamat",
+        "subtitle": "PERLU TINDAKAN",
+        "title": "AAA-ONL-006 · RM199"
+      },
+      {
+        "kind": "AaaDetailsTableRows4",
+        "label1": "Jumlah",
+        "label2": "Penyedia",
+        "label3": "Status",
+        "label4": "Tindakan",
+        "value1": "RM199",
+        "value2": "FPX",
+        "value3": "Sedang disemak",
+        "value4": "Sahkan dengan penyedia bayaran"
+      }
+    ]
+  },
+  {
+    "slug": "staff-55-semak-refund",
+    "blocks": []
+  },
+  {
+    "slug": "staff-56-perubahan-sesi",
+    "blocks": [
+      {
+        "kind": "AaaDetailsTableRows5",
+        "label2": "Masa baharu",
+        "label3": "Lokasi baharu",
+        "label4": "Peserta terlibat",
+        "label5": "Tiket",
+        "value1": "7 Nov 2026 · Kekal",
+        "value2": "10 pagi – 6 petang",
+        "value3": "Dewan AAA, Shah Alam",
+        "value4": "58 tempahan",
+        "value5": "Terbitkan tiket terkini selepas disahkan"
+      },
+      {
+        "kind": "AaaNotice",
+        "description": "Semak teks makluman, pilihan pertukaran dan keputusan peserta sebelum mengesahkan.",
+        "title": "Perubahan belum disahkan"
+      }
+    ]
+  },
+  {
+    "slug": "staff-57-kehadiran-dan-selesai",
+    "blocks": [
+      {
+        "kind": "AaaDetailsTableRows4",
+        "label1": "Peserta",
+        "label2": "Bukti",
+        "label3": "Peraturan",
+        "label4": "Pembetulan",
+        "value1": "42 disahkan",
+        "value2": "Rekod kehadiran sesi",
+        "value3": "Kehadiran disemak oleh staf",
+        "value4": "Simpan sebab dan siapa yang menyemak"
+      },
+      {
+        "kind": "AaaInfoCard",
+        "description": "Pilih kelas seterusnya berdasarkan tahap dan prasyarat yang sesuai.",
+        "subtitle": "",
+        "title": "Cadangan selepas kelas"
+      }
+    ]
+  },
+  {
+    "slug": "staff-58-sokongan-staf",
+    "blocks": [
+      {
+        "kind": "AaaInfoCard",
+        "description": "Nur Aina Ahmad · AAA-ONL-001 · Pemilik: Kewangan",
+        "subtitle": "DALAM SEMAKAN",
+        "title": "SUP-001 · Refund Standard"
+      },
+      {
+        "kind": "AaaInfoCard",
+        "description": "Hafiz Abdullah · Penghantaran e-mel perlu disemak",
+        "subtitle": "BAHARU",
+        "title": "SUP-002 · Maklumat Zoom"
+      }
+    ]
+  },
+  {
+    "slug": "staff-59-peranan-dan-sejarah",
+    "blocks": []
+  },
+  {
+    "slug": "state-60-pemulihan-akaun",
+    "blocks": [
+      {
+        "kind": "AaaNotice",
+          "description": "Masuk semula untuk membuka akaun anda. Pasukan AAA boleh membantu jika anda kehilangan akses.",
+        "title": "Dapatkan akses semula."
+      },
+      {
+        "kind": "AaaDetailsTableRows2",
+        "label1": "Maklumat diperlukan",
+        "label2": "Tempahan sedia ada",
+        "value1": "E-mel dan rujukan tempahan",
+        "value2": "Kekal pada akaun asal"
+      }
+    ]
+  },
+  {
+    "slug": "state-61-sesi-akaun-tamat",
+    "blocks": [
+      {
+        "kind": "AaaNotice",
+        "description": "Sesi akaun anda telah tamat. Selepas log masuk, anda akan kembali ke halaman yang sedang dilihat.",
+        "title": "Log masuk untuk teruskan."
+      },
+      {
+        "kind": "AaaDetailsTableRows1",
+        "label1": "Halaman asal",
+        "value1": "Tempahan AAA-ONL-001"
+      }
+    ]
+  },
+  {
+    "slug": "state-62-akaun-baharu",
+    "blocks": []
+  },
+  {
+    "slug": "state-63-tiada-hasil-carian",
+    "blocks": [
+      {
+        "kind": "AaaNotice",
+        "description": "Semak ejaan atau set semula carian untuk melihat semua kelas.",
+        "title": "Tiada kelas sepadan"
+      }
+    ]
+  },
+  {
+    "slug": "state-64-sesi-penuh",
+    "blocks": [
+      {
+        "kind": "AaaNotice",
+        "description": "Bengkel asas saham pada 7 Nov tidak mempunyai tempat kosong buat masa ini.",
+        "title": "Sesi ini sudah penuh."
+      },
+      {
+        "kind": "AaaDetailsTableRows3",
+        "label2": "Lokasi",
+        "label3": "Tempat kosong",
+        "value1": "7 Nov 2026",
+        "value2": "Shah Alam",
+        "value3": "0"
+      }
+    ]
+  },
+  {
+    "slug": "state-65-tempoh-tempahan-tamat",
+    "blocks": [
+      {
+        "kind": "AaaNotice",
+        "description": "Tempoh simpanan tempat anda telah tamat. Semak kekosongan semula sebelum membuat bayaran.",
+        "title": "Semak tempat sebelum meneruskan."
+      },
+      {
+        "kind": "AaaDetailsTableRows3",
+        "label1": "Program",
+        "label2": "Pakej",
+        "label3": "Jumlah asal",
+        "value1": "LaburSaham online",
+        "value2": "Standard",
+        "value3": "RM199"
+      }
+    ]
+  },
+  {
+    "slug": "state-66-harga-atau-pakej-berubah",
+    "blocks": [
+      {
+        "kind": "AaaInfoCard",
+        "description": "Semak manfaat, jumlah dan terma terkini sebelum meneruskan. Bayaran belum dibuat.",
+        "subtitle": "",
+        "title": "Anda menentukan pilihan"
+      }
+    ]
+  },
+  {
+    "slug": "state-67-pautan-zoom-belum-dibuka",
+    "blocks": [
+      {
+        "kind": "AaaNotice",
+        "description": "Pautan sertai dibuka 15 minit sebelum kelas.",
+        "title": "Sesi anda akan bermula sebentar lagi."
+      },
+      {
+        "kind": "AaaDetailsTableRows3",
+        "label1": "Sesi",
+        "label2": "Kelas bermula",
+        "label3": "Pautan dibuka",
+        "value1": "LaburSaham online · 17 Okt",
+        "value2": "9:00 pagi · MYT",
+        "value3": "8:45 pagi · MYT"
+      }
+    ]
+  },
+  {
+    "slug": "state-68-replay-tersedia",
+    "blocks": [
+      {
+        "kind": "AaaDetailsTableRows2",
+        "label1": "Tempoh akses",
+        "label2": "Tamat pada",
+        "value1": "48 jam selepas diterbitkan",
+        "value2": "20 Okt 2026 · 12 tengah hari · MYT"
+      },
+      {
+        "kind": "AaaInfoCard",
+        "description": "Gunakan nota PDF bersama rakaman untuk menyemak perkara yang dipelajari.",
+        "subtitle": "",
+        "title": "Nota untuk ulang kaji"
+      }
+    ]
+  },
+  {
+    "slug": "state-69-akses-replay-tamat",
+    "blocks": []
+  },
+  {
+    "slug": "state-70-buka-bahan-kelas",
+    "blocks": []
+  },
+  {
+    "slug": "state-71-refund-sedang-diproses",
+    "blocks": []
+  },
+  {
+    "slug": "state-72-refund-disahkan",
+    "blocks": [
+      {
+        "kind": "AaaNotice",
+        "description": "Wang dipulangkan melalui kaedah bayaran asal. Masa diterima bergantung pada bank anda.",
+        "title": "Refund telah disahkan."
+      },
+      {
+        "kind": "AaaDetailsTableRows4",
+        "label1": "Tempahan",
+        "label2": "Item dipulangkan",
+        "label3": "Jumlah",
+        "label4": "Status",
+        "value1": "AAA-ONL-001",
+        "value2": "Standard",
+        "value3": "RM199",
+        "value4": "Refund disahkan"
+      }
+    ]
+  },
+  {
+    "slug": "state-73-check-in-diterima",
+    "blocks": []
+  },
+  {
+    "slug": "state-74-check-in-berulang",
+    "blocks": []
+  },
+  {
+    "slug": "state-75-tiket-tidak-sepadan",
+    "blocks": []
+  },
+  {
+    "slug": "state-76-status-belum-tersedia",
+    "blocks": []
+  },
+  {
+    "slug": "state-77-tiada-sambungan",
+    "blocks": []
+  }
+]

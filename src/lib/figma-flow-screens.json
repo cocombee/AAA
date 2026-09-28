@@ -1,0 +1,1787 @@
+[
+  {
+    "slug": "public-02-programme-sales",
+    "id": "79:587",
+    "group": "public",
+    "number": "02",
+    "label": "Programme Sales",
+    "title": "Mulakan dengan kefahaman.",
+    "subtitle": "LABURSAHAM · AAA",
+    "description": "Asas pasaran, risiko dan disiplin keputusan bersama AAA.",
+    "cards": [
+      "Mulakan dengan kefahaman.",
+      "Featured LaburSaham",
+      "Online langsung",
+      "Fizikal",
+      "Fahami dahulu. Praktik bersama.",
+      "Kenali pasaran",
+      "Urus risiko",
+      "Latihan dan soalan"
+    ],
+    "actions": [
+      "Pilih pakej →",
+      "Baca polisi"
+    ]
+  },
+  {
+    "slug": "public-03-class-catalogue",
+    "id": "79:916",
+    "group": "public",
+    "number": "03",
+    "label": "Class Catalogue",
+    "title": "Pilih ilmu untuk langkah anda.",
+    "subtitle": "KELAS AAA",
+    "description": "Cari sesi online langsung dan kelas fizikal.",
+    "cards": [
+      "Pilih ilmu untuk langkah anda.",
+      "Search",
+      "Set semula",
+      "Semua topik",
+      "Asas saham",
+      "Analisis teknikal",
+      "Portfolio",
+      "Langkah pertama dalam pelaburan saham"
+    ],
+    "actions": [
+      "Bandingkan kelas →",
+      "Bantuan memilih kelas"
+    ]
+  },
+  {
+    "slug": "public-04-topic-and-comparison",
+    "id": "79:1336",
+    "group": "public",
+    "number": "04",
+    "label": "Topic And Comparison",
+    "title": "Mulakan dari asas.",
+    "subtitle": "ASAS SAHAM",
+    "description": "Pilih format, tarikh dan cara belajar yang sesuai.",
+    "cards": [
+      "Mulakan dari asas.",
+      "Semua topik",
+      "Asas saham",
+      "Analisis teknikal",
+      "Portfolio",
+      "Langkah pertama dalam pelaburan saham",
+      "Bengkel asas saham bersama AAA",
+      "Online langsung"
+    ],
+    "actions": [
+      "Bandingkan pilihan →",
+      "Lihat semua kelas"
+    ]
+  },
+  {
+    "slug": "public-05-about-and-instructor",
+    "id": "79:1646",
+    "group": "public",
+    "number": "05",
+    "label": "About And Instructor",
+    "title": "Ilmu dahulu.",
+    "subtitle": "ASRI AHMAD ACADEMY",
+    "description": "Pendidikan saham dan pelaburan yang memberi ruang untuk memahami.",
+    "cards": [
+      "Ilmu dahulu.",
+      "Dato Haji Asri / approved portrait",
+      "Belajar, berlatih dan bertanya.",
+      "Dato Haji Asri",
+      "Pendidikan dengan kefahaman",
+      "Terokai program AAA →",
+      "Hubungi AAA"
+    ],
+    "actions": [
+      "Terokai program AAA →",
+      "Hubungi AAA"
+    ]
+  },
+  {
+    "slug": "public-06-help-and-faq",
+    "id": "79:1860",
+    "group": "public",
+    "number": "06",
+    "label": "Help And FAQ",
+    "title": "Apa yang anda perlukan?",
+    "subtitle": "BANTUAN AAA",
+    "description": "Panduan pendaftaran, pembayaran, ticket dan sesi online.",
+    "cards": [
+      "Apa yang anda perlukan?",
+      "Search",
+      "Set semula",
+      "Pendaftaran",
+      "Bayaran",
+      "Sesi & ticket",
+      "Akaun",
+      "Bagaimana saya mendaftar?"
+    ],
+    "actions": [
+      "Hubungi sokongan →",
+      "Polisi AAA"
+    ]
+  },
+  {
+    "slug": "public-07-policies",
+    "id": "79:2214",
+    "group": "public",
+    "number": "07",
+    "label": "Policies",
+    "title": "Terma yang jelas.",
+    "subtitle": "SEBELUM MENDAFTAR",
+    "description": "Baca syarat pengambilan dan manfaat pakej pilihan anda.",
+    "cards": [
+      "Terma yang jelas.",
+      "Pembelian",
+      "Perubahan sesi",
+      "Bahan & replay",
+      "Privasi",
+      "Pembatalan dan refund",
+      "Jadual semula",
+      "Replay dan bahan"
+    ],
+    "actions": [
+      "Kembali ke program →",
+      "Dapatkan bantuan"
+    ]
+  },
+  {
+    "slug": "public-08-owned-resources",
+    "id": "79:2512",
+    "group": "public",
+    "number": "08",
+    "label": "Owned Resources",
+    "title": "Belajar sebelum memilih kelas.",
+    "subtitle": "SUMBER AAA",
+    "description": "Artikel pendidikan dan podcast daripada AAA.",
+    "cards": [
+      "Belajar sebelum memilih kelas.",
+      "Baca artikel →",
+      "Mulakan dengan asas",
+      "Perbincangan bersama AAA",
+      "Praktik bersama.",
+      "Langkah pertama dalam pelaburan saham",
+      "Bengkel asas saham bersama AAA"
+    ],
+    "actions": []
+  },
+  {
+    "slug": "public-09-class-comparison",
+    "id": "79:2746",
+    "group": "public",
+    "number": "09",
+    "label": "Class Comparison",
+    "title": "Bandingkan sebelum memilih.",
+    "subtitle": "BANDINGKAN KELAS",
+    "description": "Tahap, format dan manfaat ditunjukkan dengan jelas.",
+    "cards": [
+      "Bandingkan sebelum memilih.",
+      "Lihat kelas →",
+      "Pilih sesi →",
+      "Bantuan memilih"
+    ],
+    "actions": [
+      "Pilih sesi →",
+      "Bantuan memilih"
+    ]
+  },
+  {
+    "slug": "public-10-aaa-class-sales",
+    "id": "79:2996",
+    "group": "public",
+    "number": "10",
+    "label": "AAA Class Sales",
+    "title": "Baca carta dengan lebih yakin.",
+    "subtitle": "ANALISIS TEKNIKAL · AAA",
+    "description": "Praktik mengenali struktur carta dalam konteks risiko.",
+    "cards": [
+      "Baca carta dengan lebih yakin.",
+      "Pilih pakej →",
+      "Struktur carta",
+      "Latihan berpandu",
+      "Risiko dan disiplin",
+      "Apakah prasyarat kelas?",
+      "Apa yang perlu dibawa?"
+    ],
+    "actions": []
+  },
+  {
+    "slug": "public-11-filtered-class-catalogue",
+    "id": "79:3236",
+    "group": "public",
+    "number": "11",
+    "label": "Filtered Class Catalogue",
+    "title": "Kelas yang sesuai dengan carian.",
+    "subtitle": "KELAS AAA",
+    "description": "Sesi fizikal untuk analisis teknikal.",
+    "cards": [
+      "Kelas yang sesuai dengan carian.",
+      "Search",
+      "Set semula",
+      "Semua topik",
+      "Asas saham",
+      "Analisis teknikal",
+      "Portfolio",
+      "Baca carta dengan lebih yakin"
+    ],
+    "actions": [
+      "Lihat kelas →",
+      "Set semula carian"
+    ]
+  },
+  {
+    "slug": "public-12-labursaham-campaign-landing",
+    "id": "79:3540",
+    "group": "public",
+    "number": "12",
+    "label": "LaburSaham Campaign Landing",
+    "title": "Satu program. Dua cara belajar.",
+    "subtitle": "KELAS LABURSAHAM",
+    "description": "Pilih sesi online langsung atau fizikal.",
+    "cards": [
+      "LaburSaham campaign hero",
+      "Satu program. Dua cara belajar.",
+      "Online langsung",
+      "Fizikal",
+      "Asas pasaran",
+      "Risiko dan matlamat",
+      "Latihan bersama AAA",
+      "Pilih sesi →"
+    ],
+    "actions": [
+      "Pilih sesi →",
+      "Terokai kelas AAA"
+    ]
+  },
+  {
+    "slug": "public-13-log-masuk",
+    "id": "84:2886",
+    "group": "public",
+    "number": "13",
+    "label": "Log masuk",
+    "title": "Semua kelas, satu akaun.",
+    "subtitle": "AKAUN AAA",
+    "description": "Tempahan, tiket dan bahan anda berada di sini.",
+    "cards": [
+      "Semua kelas, satu akaun.",
+      "Teruskan dengan Google",
+      "Perlukan bantuan?",
+      "Tempahan dan tiket",
+      "Bahan kelas",
+      "Bayaran"
+    ],
+    "actions": []
+  },
+  {
+    "slug": "public-14-pakej-standard",
+    "id": "84:3090",
+    "group": "public",
+    "number": "14",
+    "label": "Pakej Standard",
+    "title": "Pilih pakej anda.",
+    "subtitle": "DAFTAR KELAS",
+    "description": "LaburSaham · Online langsung · 17 Okt 2026, 9 pagi – 12 tengah hari.",
+    "cards": [
+      "Pilih pakej anda.",
+      "Standard",
+      "Bimbingan"
+    ],
+    "actions": [
+      "Teruskan ke tambahan",
+      "Kembali ke sesi"
+    ]
+  },
+  {
+    "slug": "public-15-pakej-bimbingan",
+    "id": "84:3346",
+    "group": "public",
+    "number": "15",
+    "label": "Pakej Bimbingan",
+    "title": "Pilih pakej anda.",
+    "subtitle": "DAFTAR KELAS",
+    "description": "LaburSaham · Online langsung · 17 Okt 2026, 9 pagi – 12 tengah hari.",
+    "cards": [
+      "Pilih pakej anda.",
+      "Standard",
+      "Bimbingan"
+    ],
+    "actions": [
+      "Teruskan ke tambahan",
+      "Kembali ke sesi"
+    ]
+  },
+  {
+    "slug": "public-16-tambahan-pilihan",
+    "id": "84:3602",
+    "group": "public",
+    "number": "16",
+    "label": "Tambahan pilihan",
+    "title": "Lengkapkan persediaan anda.",
+    "subtitle": "TAMBAHAN PILIHAN",
+    "description": "Tambahan ini pilihan. Anda boleh teruskan tanpa menambahnya.",
+    "cards": [
+      "Lengkapkan persediaan anda.",
+      "Tambah workbook",
+      "Semak tempahan"
+    ],
+    "actions": [
+      "Semak tempahan",
+      "Kembali ke pakej"
+    ]
+  },
+  {
+    "slug": "public-17-workbook-ditambah",
+    "id": "84:3848",
+    "group": "public",
+    "number": "17",
+    "label": "Workbook ditambah",
+    "title": "Lengkapkan persediaan anda.",
+    "subtitle": "TAMBAHAN PILIHAN",
+    "description": "Tambahan ini pilihan. Anda boleh teruskan tanpa menambahnya.",
+    "cards": [
+      "Lengkapkan persediaan anda.",
+      "Buang workbook",
+      "Semak tempahan"
+    ],
+    "actions": [
+      "Semak tempahan",
+      "Kembali ke pakej"
+    ]
+  },
+  {
+    "slug": "public-18-tambahan-bimbingan",
+    "id": "84:4100",
+    "group": "public",
+    "number": "18",
+    "label": "Tambahan Bimbingan",
+    "title": "Lengkapkan persediaan anda.",
+    "subtitle": "TAMBAHAN PILIHAN",
+    "description": "Tambahan ini pilihan. Anda boleh teruskan tanpa menambahnya.",
+    "cards": [
+      "Lengkapkan persediaan anda.",
+      "Tambah workbook",
+      "Semak tempahan"
+    ],
+    "actions": [
+      "Semak tempahan",
+      "Kembali ke pakej"
+    ]
+  },
+  {
+    "slug": "public-19-semak-standard",
+    "id": "89:3725",
+    "group": "public",
+    "number": "19",
+    "label": "Semak Standard",
+    "title": "Pastikan semuanya tepat.",
+    "subtitle": "SEMAK TEMPAHAN",
+    "description": "Sahkan sesi, pakej dan peserta sebelum meneruskan bayaran.",
+    "cards": [
+      "Pastikan semuanya tepat.",
+      "Nama penuh",
+      "E-mel",
+      "Telefon"
+    ],
+    "actions": [
+      "Teruskan ke bayaran",
+      "Ubah tempahan"
+    ]
+  },
+  {
+    "slug": "public-20-semak-workbook",
+    "id": "89:4012",
+    "group": "public",
+    "number": "20",
+    "label": "Semak workbook",
+    "title": "Pastikan semuanya tepat.",
+    "subtitle": "SEMAK TEMPAHAN",
+    "description": "Sahkan sesi, pakej dan peserta sebelum meneruskan bayaran.",
+    "cards": [
+      "Pastikan semuanya tepat.",
+      "Nama penuh",
+      "E-mel",
+      "Telefon"
+    ],
+    "actions": [
+      "Teruskan ke bayaran",
+      "Ubah tempahan"
+    ]
+  },
+  {
+    "slug": "public-21-semak-bimbingan",
+    "id": "89:4299",
+    "group": "public",
+    "number": "21",
+    "label": "Semak Bimbingan",
+    "title": "Pastikan semuanya tepat.",
+    "subtitle": "SEMAK TEMPAHAN",
+    "description": "Sahkan sesi, pakej dan peserta sebelum meneruskan bayaran.",
+    "cards": [
+      "Pastikan semuanya tepat.",
+      "Nama penuh",
+      "E-mel",
+      "Telefon"
+    ],
+    "actions": [
+      "Teruskan ke bayaran",
+      "Ubah tempahan"
+    ]
+  },
+  {
+    "slug": "public-22-kaedah-bayaran",
+    "id": "89:4580",
+    "group": "public",
+    "number": "22",
+    "label": "Kaedah bayaran",
+    "title": "Pilih kaedah bayaran.",
+    "subtitle": "BAYARAN",
+    "description": "Anda akan meneruskan ke halaman penyedia bayaran yang selamat.",
+    "cards": [
+      "Pilih kaedah bayaran.",
+      "Teruskan dengan FPX",
+      "Kembali ke semakan"
+    ],
+    "actions": [
+      "Teruskan dengan FPX",
+      "Kembali ke semakan"
+    ]
+  },
+  {
+    "slug": "public-23-bayaran-sedang-disemak",
+    "id": "89:4781",
+    "group": "public",
+    "number": "23",
+    "label": "Bayaran sedang disemak",
+    "title": "Kami sedang menyemak bayaran.",
+    "subtitle": "TEMPAHAN AAA-ONL-001",
+    "description": "Pengesahan mungkin mengambil beberapa minit. Anda boleh kembali ke akaun anda.",
+    "cards": [
+      "Kami sedang menyemak bayaran.",
+      "Semak status",
+      "Akaun saya"
+    ],
+    "actions": [
+      "Semak status",
+      "Akaun saya"
+    ]
+  },
+  {
+    "slug": "public-24-tempahan-disahkan",
+    "id": "89:4962",
+    "group": "public",
+    "number": "24",
+    "label": "Tempahan disahkan",
+    "title": "Anda sudah berdaftar.",
+    "subtitle": "TEMPAHAN AAA-ONL-001",
+    "description": "Maklumat sesi akan dihantar melalui e-mel dan tersedia dalam akaun AAA.",
+    "cards": [
+      "Anda sudah berdaftar.",
+      "Lihat tempahan",
+      "Lihat resit"
+    ],
+    "actions": [
+      "Lihat tempahan",
+      "Lihat resit"
+    ]
+  },
+  {
+    "slug": "public-25-bayaran-tidak-selesai",
+    "id": "89:5143",
+    "group": "public",
+    "number": "25",
+    "label": "Bayaran tidak selesai",
+    "title": "Bayaran belum disahkan.",
+    "subtitle": "TEMPAHAN AAA-ONL-001",
+    "description": "Penyedia bayaran tidak melengkapkan transaksi ini. Tempahan anda belum disahkan.",
+    "cards": [
+      "Bayaran belum disahkan.",
+      "Semak status bayaran",
+      "Hubungi bantuan"
+    ],
+    "actions": [
+      "Semak status bayaran",
+      "Hubungi bantuan"
+    ]
+  },
+  {
+    "slug": "public-26-pratonton-bayaran",
+    "id": "157:5230",
+    "group": "public",
+    "number": "26",
+    "label": "Pratonton bayaran",
+    "title": "Semak bayaran anda.",
+    "subtitle": "SEMAK AKHIR",
+    "description": "Sahkan jumlah dan kaedah sebelum ke halaman pembayaran selamat.",
+    "cards": [
+      "Semak bayaran anda.",
+      "Anda akan ke halaman pembayaran selamat.",
+      "Teruskan ke FPX",
+      "Tukar kaedah",
+      "AAA Mobile Navigation"
+    ],
+    "actions": [
+      "Teruskan ke FPX",
+      "Tukar kaedah"
+    ]
+  },
+  {
+    "slug": "public-27-pembayaran-fpx",
+    "id": "158:5376",
+    "group": "public",
+    "number": "27",
+    "label": "Pembayaran FPX",
+    "title": "Pilih bank anda.",
+    "subtitle": "FPX · PERBANKAN INTERNET",
+    "description": "Pilihan bank dipaparkan oleh penyedia pembayaran.",
+    "cards": [
+      "Pilih bank anda.",
+      "Anda akan ke laman bank.",
+      "Search icon",
+      "Teruskan ke bank",
+      "Pilih kaedah lain",
+      "AAA Mobile Navigation"
+    ],
+    "actions": [
+      "Teruskan ke bank",
+      "Pilih kaedah lain"
+    ]
+  },
+  {
+    "slug": "public-28-pembayaran-kad",
+    "id": "158:5586",
+    "group": "public",
+    "number": "28",
+    "label": "Pembayaran kad",
+    "title": "Bayar dengan kad.",
+    "subtitle": "KAD DEBIT / KREDIT",
+    "description": "Butiran kad diisi pada halaman penyedia pembayaran yang selamat.",
+    "cards": [
+      "Bayar dengan kad.",
+      "Pengesahan bank mungkin diperlukan.",
+      "Nama pada kad",
+      "Nombor kad",
+      "Tarikh luput",
+      "Kod keselamatan",
+      "Bayar RM199"
+    ],
+    "actions": [
+      "Bayar RM199",
+      "Pilih kaedah lain"
+    ]
+  },
+  {
+    "slug": "member-26-akaun-utama",
+    "id": "93:608",
+    "group": "member",
+    "number": "26",
+    "label": "Akaun utama",
+    "title": "Kelas anda, dalam satu tempat.",
+    "subtitle": "SELAMAT DATANG, NUR AINA",
+    "description": "Sesi seterusnya sudah disahkan. Bersedia untuk belajar bersama AAA.",
+    "cards": [
+      "Utama",
+      "Tempahan saya",
+      "Bahan & replay",
+      "Bayaran",
+      "Profil",
+      "Keselamatan",
+      "Bantuan",
+      "Kelas anda, dalam satu tempat."
+    ],
+    "actions": [
+      "Lihat maklumat Zoom",
+      "Tambah ke kalendar"
+    ]
+  },
+  {
+    "slug": "member-27-tempahan-saya",
+    "id": "93:862",
+    "group": "member",
+    "number": "27",
+    "label": "Tempahan saya",
+    "title": "Tempahan saya.",
+    "subtitle": "KELAS ANDA",
+    "description": "Semak sesi akan datang dan kelas yang telah selesai.",
+    "cards": [
+      "Utama",
+      "Tempahan saya",
+      "Bahan & replay",
+      "Bayaran",
+      "Profil",
+      "Keselamatan",
+      "Bantuan",
+      "Tempahan saya."
+    ],
+    "actions": [
+      "Lihat sesi online",
+      "Lihat tiket fizikal"
+    ]
+  },
+  {
+    "slug": "member-28-maklumat-zoom",
+    "id": "93:1116",
+    "group": "member",
+    "number": "28",
+    "label": "Maklumat Zoom",
+    "title": "Bersedia untuk sesi anda.",
+    "subtitle": "LABURSAHAM ONLINE",
+    "description": "17 Okt 2026 · 9 pagi – 12 tengah hari · Waktu Malaysia.",
+    "cards": [
+      "Utama",
+      "Tempahan saya",
+      "Bahan & replay",
+      "Bayaran",
+      "Profil",
+      "Keselamatan",
+      "Bantuan",
+      "Bersedia untuk sesi anda."
+    ],
+    "actions": [
+      "Tambah ke kalendar",
+      "Lihat nota kelas"
+    ]
+  },
+  {
+    "slug": "member-29-tiket-fizikal",
+    "id": "93:1352",
+    "group": "member",
+    "number": "29",
+    "label": "Tiket fizikal",
+    "title": "Tiket anda.",
+    "subtitle": "BENGKEL ASAS SAHAM",
+    "description": "Tunjukkan tiket ini semasa tiba di lokasi.",
+    "cards": [
+      "Utama",
+      "Tempahan saya",
+      "Bahan & replay",
+      "Bayaran",
+      "Profil",
+      "Keselamatan",
+      "Bantuan",
+      "Tiket anda."
+    ],
+    "actions": [
+      "Lihat kod tiket",
+      "Lihat lokasi"
+    ]
+  },
+  {
+    "slug": "member-30-kod-tiket",
+    "id": "93:1584",
+    "group": "member",
+    "number": "30",
+    "label": "Kod tiket",
+    "title": "Kod tiket fizikal.",
+    "subtitle": "CHECK-IN",
+    "description": "Bengkel asas saham · 7 Nov 2026 · Shah Alam.",
+    "cards": [
+      "Utama",
+      "Tempahan saya",
+      "Bahan & replay",
+      "Bayaran",
+      "Profil",
+      "Keselamatan",
+      "Bantuan",
+      "Kod tiket fizikal."
+    ],
+    "actions": [
+      "Kembali ke tiket",
+      "Bantuan check-in"
+    ]
+  },
+  {
+    "slug": "member-31-bahan-kelas",
+    "id": "93:1794",
+    "group": "member",
+    "number": "31",
+    "label": "Bahan kelas",
+    "title": "Persediaan yang mudah dicapai.",
+    "subtitle": "BAHAN & REPLAY",
+    "description": "Akses bahan mengikut pakej dan sesi yang anda daftar.",
+    "cards": [
+      "Utama",
+      "Tempahan saya",
+      "Bahan & replay",
+      "Bayaran",
+      "Profil",
+      "Keselamatan",
+      "Bantuan",
+      "Persediaan yang mudah dicapai."
+    ],
+    "actions": [
+      "Buka nota kelas",
+      "Lihat tambahan"
+    ]
+  },
+  {
+    "slug": "member-32-bayaran-saya",
+    "id": "93:2012",
+    "group": "member",
+    "number": "32",
+    "label": "Bayaran saya",
+    "title": "Bayaran dan resit.",
+    "subtitle": "TRANSAKSI",
+    "description": "Semak status sebelum mencuba bayaran semula.",
+    "cards": [
+      "Utama",
+      "Tempahan saya",
+      "Bahan & replay",
+      "Bayaran",
+      "Profil",
+      "Keselamatan",
+      "Bantuan",
+      "Bayaran dan resit."
+    ],
+    "actions": [
+      "Lihat resit AAA-ONL-001",
+      "Semak bayaran tertangguh"
+    ]
+  },
+  {
+    "slug": "member-33-resit-tempahan",
+    "id": "93:2230",
+    "group": "member",
+    "number": "33",
+    "label": "Resit tempahan",
+    "title": "Bayaran diterima.",
+    "subtitle": "RESIT AAA-ONL-001",
+    "description": "Resit untuk tempahan LaburSaham online anda.",
+    "cards": [
+      "Utama",
+      "Tempahan saya",
+      "Bahan & replay",
+      "Bayaran",
+      "Profil",
+      "Keselamatan",
+      "Bantuan",
+      "Bayaran diterima."
+    ],
+    "actions": [
+      "Muat turun resit",
+      "Mohon refund"
+    ]
+  },
+  {
+    "slug": "member-34-mohon-refund",
+    "id": "93:2466",
+    "group": "member",
+    "number": "34",
+    "label": "Mohon refund",
+    "title": "Permohonan refund.",
+    "subtitle": "URUS TEMPAHAN",
+    "description": "Nyatakan item dan sebab permohonan untuk membantu semakan.",
+    "cards": [
+      "Utama",
+      "Tempahan saya",
+      "Bahan & replay",
+      "Bayaran",
+      "Profil",
+      "Keselamatan",
+      "Bantuan",
+      "Permohonan refund."
+    ],
+    "actions": [
+      "Hantar permohonan",
+      "Kembali ke tempahan"
+    ]
+  },
+  {
+    "slug": "member-35-tukar-sesi",
+    "id": "93:2706",
+    "group": "member",
+    "number": "35",
+    "label": "Tukar sesi",
+    "title": "Cari sesi yang sesuai.",
+    "subtitle": "URUS TEMPAHAN",
+    "description": "Tukar sesi tertakluk kepada kekosongan dan terma tempahan.",
+    "cards": [
+      "Utama",
+      "Tempahan saya",
+      "Bahan & replay",
+      "Bayaran",
+      "Profil",
+      "Keselamatan",
+      "Bantuan",
+      "Cari sesi yang sesuai."
+    ],
+    "actions": [
+      "Mohon pertukaran",
+      "Kembali ke tempahan"
+    ]
+  },
+  {
+    "slug": "member-36-profil-saya",
+    "id": "93:2936",
+    "group": "member",
+    "number": "36",
+    "label": "Profil saya",
+    "title": "Maklumat peribadi.",
+    "subtitle": "AKAUN",
+    "description": "Butiran ini digunakan untuk tempahan dan komunikasi kelas.",
+    "cards": [
+      "Utama",
+      "Tempahan saya",
+      "Bahan & replay",
+      "Bayaran",
+      "Profil",
+      "Keselamatan",
+      "Bantuan",
+      "Maklumat peribadi."
+    ],
+    "actions": [
+      "Simpan perubahan",
+      "Kembali ke akaun"
+    ]
+  },
+  {
+    "slug": "member-37-bantuan-peserta",
+    "id": "93:3166",
+    "group": "member",
+    "number": "37",
+    "label": "Bantuan peserta",
+    "title": "Hantar pertanyaan anda.",
+    "subtitle": "KAMI BOLEH BANTU",
+    "description": "Sertakan rujukan tempahan supaya kami dapat membantu dengan cepat.",
+    "cards": [
+      "Utama",
+      "Tempahan saya",
+      "Bahan & replay",
+      "Bayaran",
+      "Profil",
+      "Keselamatan",
+      "Bantuan",
+      "Hantar pertanyaan anda."
+    ],
+    "actions": [
+      "Hantar pertanyaan",
+      "Lihat pertanyaan saya"
+    ]
+  },
+  {
+    "slug": "member-38-keselamatan-akaun",
+    "id": "93:3386",
+    "group": "member",
+    "number": "38",
+    "label": "Keselamatan akaun",
+    "title": "Lindungi akses anda.",
+    "subtitle": "KESELAMATAN",
+    "description": "Gunakan akaun Google yang sama untuk melihat semua tempahan.",
+    "cards": [
+      "Utama",
+      "Tempahan saya",
+      "Bahan & replay",
+      "Bayaran",
+      "Profil",
+      "Keselamatan",
+      "Bantuan",
+      "Lindungi akses anda."
+    ],
+    "actions": [
+      "Tamatkan sesi lain",
+      "Bantuan akaun"
+    ]
+  },
+  {
+    "slug": "member-39-pilihan-notifikasi",
+    "id": "93:3604",
+    "group": "member",
+    "number": "39",
+    "label": "Pilihan notifikasi",
+    "title": "Pilih maklumat yang anda terima.",
+    "subtitle": "KOMUNIKASI",
+    "description": "Maklumat penting tempahan tetap dihantar supaya anda tidak terlepas sesi.",
+    "cards": [
+      "Utama",
+      "Tempahan saya",
+      "Bahan & replay",
+      "Bayaran",
+      "Profil",
+      "Keselamatan",
+      "Bantuan",
+      "Pilih maklumat yang anda terima."
+    ],
+    "actions": [
+      "Simpan pilihan",
+      "Kembali ke akaun"
+    ]
+  },
+  {
+    "slug": "member-40-privasi-akaun",
+    "id": "93:3822",
+    "group": "member",
+    "number": "40",
+    "label": "Privasi akaun",
+    "title": "Urus privasi anda.",
+    "subtitle": "DATA ANDA",
+    "description": "Semak atau mohon perubahan terhadap maklumat akaun.",
+    "cards": [
+      "Utama",
+      "Tempahan saya",
+      "Bahan & replay",
+      "Bayaran",
+      "Profil",
+      "Keselamatan",
+      "Bantuan",
+      "Urus privasi anda."
+    ],
+    "actions": [
+      "Mohon salinan data",
+      "Hubungi bantuan privasi"
+    ]
+  },
+  {
+    "slug": "member-41-status-pertanyaan",
+    "id": "93:4046",
+    "group": "member",
+    "number": "41",
+    "label": "Status pertanyaan",
+    "title": "Kami sedang menyemak permohonan anda.",
+    "subtitle": "PERTANYAAN SUP-001",
+    "description": "Pertanyaan tentang refund tempahan AAA-ONL-001.",
+    "cards": [
+      "Utama",
+      "Tempahan saya",
+      "Bahan & replay",
+      "Bayaran",
+      "Profil",
+      "Keselamatan",
+      "Bantuan",
+      "Kami sedang menyemak permohonan anda."
+    ],
+    "actions": [
+      "Hantar maklumat tambahan",
+      "Kembali ke bantuan"
+    ]
+  },
+  {
+    "slug": "member-42-kelas-selesai",
+    "id": "93:4272",
+    "group": "member",
+    "number": "42",
+    "label": "Kelas selesai",
+    "title": "Langkah seterusnya bermula di sini.",
+    "subtitle": "TAHNIAH, NUR AINA",
+    "description": "Sesi LaburSaham anda telah ditandakan selesai oleh pasukan AAA.",
+    "cards": [
+      "Utama",
+      "Tempahan saya",
+      "Bahan & replay",
+      "Bayaran",
+      "Profil",
+      "Keselamatan",
+      "Bantuan",
+      "Langkah seterusnya bermula di sini."
+    ],
+    "actions": []
+  },
+  {
+    "slug": "staff-43-ringkasan-staf",
+    "id": "108:3179",
+    "group": "staff",
+    "number": "43",
+    "label": "Ringkasan staf",
+    "title": "Ringkasan pasukan AAA.",
+    "subtitle": "OPERASI HARI INI",
+    "description": "Urus sesi, peserta dan permohonan yang memerlukan perhatian.",
+    "cards": [
+      "Ringkasan",
+      "Program",
+      "Sesi & kapasiti",
+      "Peserta & check-in",
+      "Akses peserta",
+      "Bayaran & refund",
+      "Sokongan",
+      "Peranan & audit"
+    ],
+    "actions": [
+      "Urus sesi",
+      "Lihat kes sokongan"
+    ]
+  },
+  {
+    "slug": "staff-44-senarai-program",
+    "id": "108:3444",
+    "group": "staff",
+    "number": "44",
+    "label": "Senarai program",
+    "title": "Program dan kelas.",
+    "subtitle": "KANDUNGAN",
+    "description": "Urus maklumat program, format dan status penerbitan.",
+    "cards": [
+      "Ringkasan",
+      "Program",
+      "Sesi & kapasiti",
+      "Peserta & check-in",
+      "Akses peserta",
+      "Bayaran & refund",
+      "Sokongan",
+      "Peranan & audit"
+    ],
+    "actions": [
+      "Tambah program",
+      "Edit LaburSaham"
+    ]
+  },
+  {
+    "slug": "staff-45-edit-program",
+    "id": "108:3705",
+    "group": "staff",
+    "number": "45",
+    "label": "Edit program",
+    "title": "Maklumat program.",
+    "subtitle": "PENGURUSAN AAA",
+    "description": "Pastikan tajuk, hasil pembelajaran dan media menerangkan tawaran dengan jelas.",
+    "cards": [
+      "Ringkasan",
+      "Program",
+      "Sesi & kapasiti",
+      "Peserta & check-in",
+      "Akses peserta",
+      "Bayaran & refund",
+      "Sokongan",
+      "Peranan & audit"
+    ],
+    "actions": [
+      "Simpan",
+      "Semak penerbitan"
+    ]
+  },
+  {
+    "slug": "staff-46-semak-penerbitan",
+    "id": "108:3972",
+    "group": "staff",
+    "number": "46",
+    "label": "Semak penerbitan",
+    "title": "Semak sebelum diterbitkan.",
+    "subtitle": "PENERBITAN",
+    "description": "Perubahan ini akan dipaparkan pada halaman program.",
+    "cards": [
+      "Ringkasan",
+      "Program",
+      "Sesi & kapasiti",
+      "Peserta & check-in",
+      "Akses peserta",
+      "Bayaran & refund",
+      "Sokongan",
+      "Peranan & audit"
+    ],
+    "actions": [
+      "Terbitkan program",
+      "Kembali ke"
+    ]
+  },
+  {
+    "slug": "staff-47-pakej-dan-tambahan",
+    "id": "108:4235",
+    "group": "staff",
+    "number": "47",
+    "label": "Pakej dan tambahan",
+    "title": "Pakej yang jelas untuk peserta.",
+    "subtitle": "TAWARAN",
+    "description": "Urus harga, manfaat dan keserasian tambahan.",
+    "cards": [
+      "Ringkasan",
+      "Program",
+      "Sesi & kapasiti",
+      "Peserta & check-in",
+      "Akses peserta",
+      "Bayaran & refund",
+      "Sokongan",
+      "Peranan & audit"
+    ],
+    "actions": [
+      "Edit pakej",
+      "Edit workbook"
+    ]
+  },
+  {
+    "slug": "staff-48-sesi-dan-kapasiti",
+    "id": "108:4526",
+    "group": "staff",
+    "number": "48",
+    "label": "Sesi dan kapasiti",
+    "title": "Sesi akan datang.",
+    "subtitle": "JADUAL",
+    "description": "Semak format, kapasiti dan persediaan sesi.",
+    "cards": [
+      "Ringkasan",
+      "Program",
+      "Sesi & kapasiti",
+      "Peserta & check-in",
+      "Akses peserta",
+      "Bayaran & refund",
+      "Sokongan",
+      "Peranan & audit"
+    ],
+    "actions": [
+      "Tambah sesi",
+      "Edit sesi fizikal"
+    ]
+  },
+  {
+    "slug": "staff-49-edit-sesi",
+    "id": "108:4751",
+    "group": "staff",
+    "number": "49",
+    "label": "Edit sesi",
+    "title": "Butiran sesi fizikal.",
+    "subtitle": "PENGURUSAN AAA",
+    "description": "Maklumat ini digunakan pada halaman pendaftaran dan tiket peserta.",
+    "cards": [
+      "Ringkasan",
+      "Program",
+      "Sesi & kapasiti",
+      "Peserta & check-in",
+      "Akses peserta",
+      "Bayaran & refund",
+      "Sokongan",
+      "Peranan & audit"
+    ],
+    "actions": [
+      "Simpan perubahan",
+      "Semak peserta terlibat"
+    ]
+  },
+  {
+    "slug": "staff-50-senarai-peserta",
+    "id": "108:5018",
+    "group": "staff",
+    "number": "50",
+    "label": "Senarai peserta",
+    "title": "Peserta sesi.",
+    "subtitle": "BENGKEL ASAS SAHAM",
+    "description": "7 Nov 2026 · Shah Alam · 58 peserta disahkan.",
+    "cards": [
+      "Ringkasan",
+      "Program",
+      "Sesi & kapasiti",
+      "Peserta & check-in",
+      "Akses peserta",
+      "Bayaran & refund",
+      "Sokongan",
+      "Peranan & audit"
+    ],
+    "actions": [
+      "Buka check-in",
+      "Urus kehadiran"
+    ]
+  },
+  {
+    "slug": "staff-51-check-in-peserta",
+    "id": "108:5279",
+    "group": "staff",
+    "number": "51",
+    "label": "Check-in peserta",
+    "title": "Sahkan peserta yang tiba.",
+    "subtitle": "PENGURUSAN AAA",
+    "description": "Pastikan rujukan tiket sepadan dengan sesi sebelum merekod kemasukan.",
+    "cards": [
+      "Ringkasan",
+      "Program",
+      "Sesi & kapasiti",
+      "Peserta & check-in",
+      "Akses peserta",
+      "Bayaran & refund",
+      "Sokongan",
+      "Peranan & audit"
+    ],
+    "actions": [
+      "Semak tiket",
+      "Kembali ke senarai"
+    ]
+  },
+  {
+    "slug": "staff-52-akses-peserta",
+    "id": "108:5526",
+    "group": "staff",
+    "number": "52",
+    "label": "Akses peserta",
+    "title": "Bahan dan akses sesi.",
+    "subtitle": "HAK AKSES",
+    "description": "Semak asal akses, tempoh sah dan permohonan pengecualian.",
+    "cards": [
+      "Ringkasan",
+      "Program",
+      "Sesi & kapasiti",
+      "Peserta & check-in",
+      "Akses peserta",
+      "Bayaran & refund",
+      "Sokongan",
+      "Peranan & audit"
+    ],
+    "actions": [
+      "Tambah akses dengan sebab",
+      "Lihat sejarah akses"
+    ]
+  },
+  {
+    "slug": "staff-53-beri-akses-khas",
+    "id": "108:5783",
+    "group": "staff",
+    "number": "53",
+    "label": "Beri akses khas",
+    "title": "Akses khas peserta.",
+    "subtitle": "PENGURUSAN AAA",
+    "description": "Nyatakan sebab dan tempoh supaya perubahan boleh disemak semula.",
+    "cards": [
+      "Ringkasan",
+      "Program",
+      "Sesi & kapasiti",
+      "Peserta & check-in",
+      "Akses peserta",
+      "Bayaran & refund",
+      "Sokongan",
+      "Peranan & audit"
+    ],
+    "actions": [
+      "Hantar untuk kelulusan",
+      "Batal"
+    ]
+  },
+  {
+    "slug": "staff-54-bayaran-dan-pengecualian",
+    "id": "108:6040",
+    "group": "staff",
+    "number": "54",
+    "label": "Bayaran dan pengecualian",
+    "title": "Bayaran peserta.",
+    "subtitle": "KEWANGAN",
+    "description": "Semak transaksi yang memerlukan tindakan sebelum mengubah tempahan.",
+    "cards": [
+      "Ringkasan",
+      "Program",
+      "Sesi & kapasiti",
+      "Peserta & check-in",
+      "Akses peserta",
+      "Bayaran & refund",
+      "Sokongan",
+      "Peranan & audit"
+    ],
+    "actions": [
+      "Semak transaksi",
+      "Lihat permohonan refund"
+    ]
+  },
+  {
+    "slug": "staff-55-semak-refund",
+    "id": "108:6329",
+    "group": "staff",
+    "number": "55",
+    "label": "Semak refund",
+    "title": "Keputusan refund.",
+    "subtitle": "PENGURUSAN AAA",
+    "description": "Semak item, jumlah dan bukti sebelum meluluskan permohonan.",
+    "cards": [
+      "Ringkasan",
+      "Program",
+      "Sesi & kapasiti",
+      "Peserta & check-in",
+      "Akses peserta",
+      "Bayaran & refund",
+      "Sokongan",
+      "Peranan & audit"
+    ],
+    "actions": [
+      "Hantar keputusan untuk kelulusan",
+      "Kembali ke kes"
+    ]
+  },
+  {
+    "slug": "staff-56-perubahan-sesi",
+    "id": "108:6586",
+    "group": "staff",
+    "number": "56",
+    "label": "Perubahan sesi",
+    "title": "Semak kesan perubahan sesi.",
+    "subtitle": "URUS PERUBAHAN",
+    "description": "Peserta perlu mendapat maklumat yang tepat jika masa atau lokasi berubah.",
+    "cards": [
+      "Ringkasan",
+      "Program",
+      "Sesi & kapasiti",
+      "Peserta & check-in",
+      "Akses peserta",
+      "Bayaran & refund",
+      "Sokongan",
+      "Peranan & audit"
+    ],
+    "actions": [
+      "Semak dan sahkan",
+      "Simpan cadangan"
+    ]
+  },
+  {
+    "slug": "staff-57-kehadiran-dan-selesai",
+    "id": "108:6859",
+    "group": "staff",
+    "number": "57",
+    "label": "Kehadiran dan selesai",
+    "title": "Rekod pembelajaran peserta.",
+    "subtitle": "SELEPAS SESI",
+    "description": "Tandakan selesai berdasarkan kehadiran yang disahkan.",
+    "cards": [
+      "Ringkasan",
+      "Program",
+      "Sesi & kapasiti",
+      "Peserta & check-in",
+      "Akses peserta",
+      "Bayaran & refund",
+      "Sokongan",
+      "Peranan & audit"
+    ],
+    "actions": [
+      "Semak kehadiran",
+      "Tetapkan cadangan kelas"
+    ]
+  },
+  {
+    "slug": "staff-58-sokongan-staf",
+    "id": "108:7126",
+    "group": "staff",
+    "number": "58",
+    "label": "Sokongan staf",
+    "title": "Kes yang memerlukan perhatian.",
+    "subtitle": "PERTANYAAN PESERTA",
+    "description": "Urus pemilik kes, maklumat peserta dan keputusan.",
+    "cards": [
+      "Ringkasan",
+      "Program",
+      "Sesi & kapasiti",
+      "Peserta & check-in",
+      "Akses peserta",
+      "Bayaran & refund",
+      "Sokongan",
+      "Peranan & audit"
+    ],
+    "actions": [
+      "Buka SUP-001",
+      "Tetapkan pemilik kes"
+    ]
+  },
+  {
+    "slug": "staff-59-peranan-dan-sejarah",
+    "id": "108:7361",
+    "group": "staff",
+    "number": "59",
+    "label": "Peranan dan sejarah",
+    "title": "Peranan dan rekod perubahan.",
+    "subtitle": "STAFF",
+    "description": "",
+    "cards": [
+      "Ringkasan",
+      "Program",
+      "Sesi & kapasiti",
+      "Peserta & check-in",
+      "Akses peserta",
+      "Bayaran & refund",
+      "Sokongan",
+      "Peranan & audit"
+    ],
+    "actions": [
+      "Urus peranan",
+      "Lihat semua rekod"
+    ]
+  },
+  {
+    "slug": "state-60-pemulihan-akaun",
+    "id": "110:5840",
+    "group": "state",
+    "number": "60",
+    "label": "Pemulihan akaun",
+    "title": "Dapatkan akses semula.",
+    "subtitle": "AKAUN & TEMPAHAN",
+    "description": "Masuk semula untuk membuka akaun anda. Pasukan AAA boleh membantu jika anda kehilangan akses.",
+    "cards": [
+      "Dapatkan akses semula.",
+      "Masuk akaun",
+      "Hubungi bantuan akaun"
+    ],
+    "actions": [
+      "Masuk akaun",
+      "Hubungi bantuan akaun"
+    ]
+  },
+  {
+    "slug": "state-61-sesi-akaun-tamat",
+    "id": "110:6059",
+    "group": "state",
+    "number": "61",
+    "label": "Sesi akaun tamat",
+    "title": "Log masuk untuk teruskan.",
+    "subtitle": "AKAUN & TEMPAHAN",
+    "description": "Sesi akaun anda telah tamat. Selepas log masuk, anda akan kembali ke halaman yang sedang dilihat.",
+    "cards": [
+      "Log masuk untuk teruskan.",
+      "Log masuk semula",
+      "Bantuan akaun"
+    ],
+    "actions": [
+      "Log masuk semula",
+      "Bantuan akaun"
+    ]
+  },
+  {
+    "slug": "state-62-akaun-baharu",
+    "id": "110:6272",
+    "group": "state",
+    "number": "62",
+    "label": "Akaun baharu",
+    "title": "Selamat datang ke AAA.",
+    "subtitle": "STATE",
+    "description": "",
+    "cards": [
+      "Utama",
+      "Tempahan saya",
+      "Bahan & replay",
+      "Bayaran",
+      "Profil",
+      "Keselamatan",
+      "Bantuan",
+      "Selamat datang ke AAA."
+    ],
+    "actions": [
+      "Terokai program",
+      "Lengkapkan profil"
+    ]
+  },
+  {
+    "slug": "state-63-tiada-hasil-carian",
+    "id": "110:6468",
+    "group": "state",
+    "number": "63",
+    "label": "Tiada hasil carian",
+    "title": "Belum jumpa padanan.",
+    "subtitle": "CARI KELAS",
+    "description": "Cuba kata carian lain atau buang pilihan topik.",
+    "cards": [
+      "Belum jumpa padanan.",
+      "Search",
+      "Set semula",
+      "Semua topik",
+      "Asas saham",
+      "Analisis teknikal",
+      "Portfolio",
+      "Tiada kelas sepadan"
+    ],
+    "actions": [
+      "Set semula carian",
+      "Lihat semua kelas"
+    ]
+  },
+  {
+    "slug": "state-64-sesi-penuh",
+    "id": "110:6749",
+    "group": "state",
+    "number": "64",
+    "label": "Sesi penuh",
+    "title": "Sesi ini sudah penuh.",
+    "subtitle": "AKAUN & TEMPAHAN",
+    "description": "Bengkel asas saham pada 7 Nov tidak mempunyai tempat kosong buat masa ini.",
+    "cards": [
+      "Sesi ini sudah penuh.",
+      "Pilih sesi lain",
+      "Hubungi bantuan"
+    ],
+    "actions": [
+      "Pilih sesi lain",
+      "Hubungi bantuan"
+    ]
+  },
+  {
+    "slug": "state-65-tempoh-tempahan-tamat",
+    "id": "110:6962",
+    "group": "state",
+    "number": "65",
+    "label": "Tempoh tempahan tamat",
+    "title": "Semak tempat sebelum meneruskan.",
+    "subtitle": "AKAUN & TEMPAHAN",
+    "description": "Tempoh simpanan tempat anda telah tamat. Semak kekosongan semula sebelum membuat bayaran.",
+    "cards": [
+      "Semak tempat sebelum meneruskan.",
+      "Semak kekosongan",
+      "Kembali ke program"
+    ],
+    "actions": [
+      "Semak kekosongan",
+      "Kembali ke program"
+    ]
+  },
+  {
+    "slug": "state-66-harga-atau-pakej-berubah",
+    "id": "110:7175",
+    "group": "state",
+    "number": "66",
+    "label": "Harga atau pakej berubah",
+    "title": "Semak perubahan tempahan.",
+    "subtitle": "SEMAKAN TERKINI",
+    "description": "Tawaran telah berubah sejak anda memulakan pendaftaran.",
+    "cards": [
+      "Semak perubahan tempahan.",
+      "Pilihan terdahulu",
+      "Pilihan terkini",
+      "Anda menentukan pilihan",
+      "Semak pilihan terkini",
+      "Batal pendaftaran"
+    ],
+    "actions": [
+      "Semak pilihan terkini",
+      "Batal pendaftaran"
+    ]
+  },
+  {
+    "slug": "state-67-pautan-zoom-belum-dibuka",
+    "id": "110:7372",
+    "group": "state",
+    "number": "67",
+    "label": "Pautan Zoom belum dibuka",
+    "title": "Sesi anda akan bermula sebentar lagi.",
+    "subtitle": "AKAUN & TEMPAHAN",
+    "description": "Pautan sertai dibuka 15 minit sebelum kelas.",
+    "cards": [
+      "Utama",
+      "Tempahan saya",
+      "Bahan & replay",
+      "Bayaran",
+      "Profil",
+      "Keselamatan",
+      "Bantuan",
+      "Sesi anda akan bermula sebentar lagi."
+    ],
+    "actions": [
+      "Tambah ke kalendar",
+      "Lihat nota kelas"
+    ]
+  },
+  {
+    "slug": "state-68-replay-tersedia",
+    "id": "110:7622",
+    "group": "state",
+    "number": "68",
+    "label": "Replay tersedia",
+    "title": "Replay LaburSaham.",
+    "subtitle": "ULANG KAJI",
+    "description": "Akses replay mengikuti tempoh yang termasuk dalam pakej anda.",
+    "cards": [
+      "Utama",
+      "Tempahan saya",
+      "Bahan & replay",
+      "Bayaran",
+      "Profil",
+      "Keselamatan",
+      "Bantuan",
+      "Replay LaburSaham."
+    ],
+    "actions": [
+      "Buka nota kelas",
+      "Kembali ke bahan"
+    ]
+  },
+  {
+    "slug": "state-69-akses-replay-tamat",
+    "id": "112:12244",
+    "group": "state",
+    "number": "69",
+    "label": "Akses replay tamat",
+    "title": "Tempoh replay telah tamat.",
+    "subtitle": "STATE",
+    "description": "",
+    "cards": [
+      "Utama",
+      "Tempahan saya",
+      "Bahan & replay",
+      "Bayaran",
+      "Profil",
+      "Keselamatan",
+      "Bantuan",
+      "Tempoh replay telah tamat."
+    ],
+    "actions": [
+      "Lihat nota kelas",
+      "Hubungi bantuan"
+    ]
+  },
+  {
+    "slug": "state-70-buka-bahan-kelas",
+    "id": "112:12501",
+    "group": "state",
+    "number": "70",
+    "label": "Buka bahan kelas",
+    "title": "Bahan untuk ulang kaji.",
+    "subtitle": "STATE",
+    "description": "",
+    "cards": [
+      "Utama",
+      "Tempahan saya",
+      "Bahan & replay",
+      "Bayaran",
+      "Profil",
+      "Keselamatan",
+      "Bantuan",
+      "Bahan untuk ulang kaji."
+    ],
+    "actions": [
+      "Muat turun PDF",
+      "Kembali ke bahan"
+    ]
+  },
+  {
+    "slug": "state-71-refund-sedang-diproses",
+    "id": "112:12748",
+    "group": "state",
+    "number": "71",
+    "label": "Refund sedang diproses",
+    "title": "Refund anda sedang diproses.",
+    "subtitle": "STATE",
+    "description": "",
+    "cards": [
+      "Utama",
+      "Tempahan saya",
+      "Bahan & replay",
+      "Bayaran",
+      "Profil",
+      "Keselamatan",
+      "Bantuan",
+      "Refund anda sedang diproses."
+    ],
+    "actions": [
+      "Lihat status permohonan",
+      "Hubungi bantuan"
+    ]
+  },
+  {
+    "slug": "state-72-refund-disahkan",
+    "id": "112:12999",
+    "group": "state",
+    "number": "72",
+    "label": "Refund disahkan",
+    "title": "Refund telah disahkan.",
+    "subtitle": "AKAUN & TEMPAHAN",
+    "description": "Wang dipulangkan melalui kaedah bayaran asal. Masa diterima bergantung pada bank anda.",
+    "cards": [
+      "Utama",
+      "Tempahan saya",
+      "Bahan & replay",
+      "Bayaran",
+      "Profil",
+      "Keselamatan",
+      "Bantuan",
+      "Refund telah disahkan."
+    ],
+    "actions": [
+      "Lihat rekod bayaran",
+      "Kembali ke akaun"
+    ]
+  },
+  {
+    "slug": "state-73-check-in-diterima",
+    "id": "112:13250",
+    "group": "state",
+    "number": "73",
+    "label": "Check-in diterima",
+    "title": "Peserta telah disahkan masuk.",
+    "subtitle": "STATE",
+    "description": "",
+    "cards": [
+      "Ringkasan",
+      "Program",
+      "Sesi & kapasiti",
+      "Peserta & check-in",
+      "Akses peserta",
+      "Bayaran & refund",
+      "Sokongan",
+      "Peranan & audit"
+    ],
+    "actions": [
+      "Semak peserta seterusnya",
+      "Lihat senarai peserta"
+    ]
+  },
+  {
+    "slug": "state-74-check-in-berulang",
+    "id": "112:13514",
+    "group": "state",
+    "number": "74",
+    "label": "Check-in berulang",
+    "title": "Tiket ini sudah digunakan.",
+    "subtitle": "STATE",
+    "description": "",
+    "cards": [
+      "Ringkasan",
+      "Program",
+      "Sesi & kapasiti",
+      "Peserta & check-in",
+      "Akses peserta",
+      "Bayaran & refund",
+      "Sokongan",
+      "Peranan & audit"
+    ],
+    "actions": [
+      "Lihat rekod check-in",
+      "Semak tiket lain"
+    ]
+  },
+  {
+    "slug": "state-75-tiket-tidak-sepadan",
+    "id": "112:13778",
+    "group": "state",
+    "number": "75",
+    "label": "Tiket tidak sepadan",
+    "title": "Tiket tidak boleh disahkan untuk sesi ini.",
+    "subtitle": "STATE",
+    "description": "",
+    "cards": [
+      "Ringkasan",
+      "Program",
+      "Sesi & kapasiti",
+      "Peserta & check-in",
+      "Akses peserta",
+      "Bayaran & refund",
+      "Sokongan",
+      "Peranan & audit"
+    ],
+    "actions": [
+      "Cari tempahan peserta",
+      "Semak tiket lain"
+    ]
+  },
+  {
+    "slug": "state-76-status-belum-tersedia",
+    "id": "112:14042",
+    "group": "state",
+    "number": "76",
+    "label": "Status belum tersedia",
+    "title": "Kami belum dapat mendapatkan status.",
+    "subtitle": "STATE",
+    "description": "",
+    "cards": [
+      "Kami belum dapat mendapatkan status.",
+      "Semak status semula",
+      "Hubungi bantuan"
+    ],
+    "actions": [
+      "Semak status semula",
+      "Hubungi bantuan"
+    ]
+  },
+  {
+    "slug": "state-77-tiada-sambungan",
+    "id": "112:14256",
+    "group": "state",
+    "number": "77",
+    "label": "Tiada sambungan",
+    "title": "Sambung semula untuk maklumat terkini.",
+    "subtitle": "STATE",
+    "description": "",
+    "cards": [
+      "Utama",
+      "Tempahan saya",
+      "Bahan & replay",
+      "Bayaran",
+      "Profil",
+      "Keselamatan",
+      "Bantuan",
+      "Sambung semula untuk maklumat terkini."
+    ],
+    "actions": [
+      "Cuba sambung semula",
+      "Kembali ke akaun"
+    ]
+  }
+]
