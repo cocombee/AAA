@@ -11,7 +11,7 @@ export const previewMember: MemberDashboard = {
     { id: "sample-03", title: "Bengkel asas saham bersama AAA", format: "Fizikal", startsAt: "2026-09-05T01:00:00Z", location: "Shah Alam · Lokasi akan diumumkan", status: "completed", cover: "bengkel" },
   ],
   orders: [
-    { id: "order-example-01", reference: "AAA-ONL-001", title: "Langkah pertama dalam pelaburan saham", placedAt: "2026-09-27T01:00:00Z", amountMinor: 19900, status: "paid" },
-    { id: "order-example-02", reference: "AAA-PHY-002", title: "Baca carta dengan lebih yakin", placedAt: "2026-09-26T01:00:00Z", amountMinor: 34900, status: "paid" },
+    { id: "order-example-01", reference: "AAA-CLS-001", title: "Langkah pertama dalam pelaburan saham", placedAt: "2026-09-27T01:00:00Z", amountMinor: 19900, status: "paid" },
+    { id: "order-example-02", reference: "AAA-CLS-002", title: "Baca carta dengan lebih yakin", placedAt: "2026-09-26T01:00:00Z", amountMinor: 34900, status: "paid" },
   ],
 };

@@ -140,7 +140,7 @@
   {
     "slug": "public-23-bayaran-sedang-disemak",
     "targets": [
-      null,
+      "state-76-status-belum-tersedia",
       "member-26-akaun-utama"
     ]
   },
@@ -154,7 +154,7 @@
   {
     "slug": "public-25-bayaran-tidak-selesai",
     "targets": [
-      null,
+      "state-76-status-belum-tersedia",
       "public-06-help-and-faq"
     ]
   },

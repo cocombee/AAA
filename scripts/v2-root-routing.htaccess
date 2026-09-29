@@ -1,0 +1,9 @@
+# BEGIN AAA V2 Preview
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteOptions AllowNoSlash
+RewriteRule ^v2/?$ /v2/index.html [L]
+RewriteCond %{DOCUMENT_ROOT}/v2/$1.html -f
+RewriteRule ^v2/(.+?)/?$ /v2/$1.html [L]
+</IfModule>
+# END AAA V2 Preview

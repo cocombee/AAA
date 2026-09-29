@@ -274,14 +274,14 @@
     "id": "84:3090",
     "group": "public",
     "number": "14",
-    "label": "Pakej Standard",
+    "label": "Pakej Online",
     "title": "Pilih pakej anda.",
     "subtitle": "DAFTAR KELAS",
     "description": "LaburSaham · Online langsung · 17 Okt 2026, 9 pagi – 12 tengah hari.",
     "cards": [
       "Pilih pakej anda.",
-      "Standard",
-      "Bimbingan"
+      "Online",
+      "Online+"
     ],
     "actions": [
       "Teruskan ke tambahan",
@@ -293,14 +293,14 @@
     "id": "84:3346",
     "group": "public",
     "number": "15",
-    "label": "Pakej Bimbingan",
+    "label": "Pakej Online+",
     "title": "Pilih pakej anda.",
     "subtitle": "DAFTAR KELAS",
     "description": "LaburSaham · Online langsung · 17 Okt 2026, 9 pagi – 12 tengah hari.",
     "cards": [
       "Pilih pakej anda.",
-      "Standard",
-      "Bimbingan"
+      "Online",
+      "Online+"
     ],
     "actions": [
       "Teruskan ke tambahan",
@@ -350,7 +350,7 @@
     "id": "84:4100",
     "group": "public",
     "number": "18",
-    "label": "Tambahan Bimbingan",
+    "label": "Tambahan Online+",
     "title": "Lengkapkan persediaan anda.",
     "subtitle": "TAMBAHAN PILIHAN",
     "description": "Tambahan ini pilihan. Anda boleh teruskan tanpa menambahnya.",
@@ -369,7 +369,7 @@
     "id": "89:3725",
     "group": "public",
     "number": "19",
-    "label": "Semak Standard",
+    "label": "Semak Online",
     "title": "Pastikan semuanya tepat.",
     "subtitle": "SEMAK TEMPAHAN",
     "description": "Sahkan sesi, pakej dan peserta sebelum meneruskan bayaran.",
@@ -409,7 +409,7 @@
     "id": "89:4299",
     "group": "public",
     "number": "21",
-    "label": "Semak Bimbingan",
+    "label": "Semak Online+",
     "title": "Pastikan semuanya tepat.",
     "subtitle": "SEMAK TEMPAHAN",
     "description": "Sahkan sesi, pakej dan peserta sebelum meneruskan bayaran.",
@@ -559,10 +559,10 @@
       "Nombor kad",
       "Tarikh luput",
       "Kod keselamatan",
-      "Bayar RM199"
+      "Bayar RM49"
     ],
     "actions": [
-      "Bayar RM199",
+      "Bayar RM49",
       "Pilih kaedah lain"
     ]
   },

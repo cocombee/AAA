@@ -160,9 +160,9 @@
   {
     "slug": "member-32-bayaran-saya",
     "content": [
-      "AAA-ONL-001 · RM199",
-      "AAA-PHY-002 · RM299",
-      "AAA-ONL-003 · RM199"
+      "AAA-ONL-001 · RM49",
+      "AAA-PHY-002 · RM129",
+      "AAA-ONL-003 · RM49"
     ]
   },
   {
@@ -293,8 +293,8 @@
   {
     "slug": "staff-47-pakej-dan-tambahan",
     "content": [
-      "Standard",
-      "Bimbingan",
+      "Online",
+      "Online+",
       "Workbook latihan"
     ]
   },
@@ -350,9 +350,9 @@
   {
     "slug": "staff-54-bayaran-dan-pengecualian",
     "content": [
-      "AAA-ONL-001 · RM199",
-      "AAA-ONL-003 · RM199",
-      "AAA-ONL-006 · RM199",
+      "AAA-ONL-001 · RM49",
+      "AAA-ONL-003 · RM49",
+      "AAA-ONL-006 · RM49",
       "Semakan transaksi AAA-ONL-003"
     ]
   },
@@ -384,7 +384,7 @@
   {
     "slug": "staff-58-sokongan-staf",
     "content": [
-      "SUP-001 · Refund Standard",
+      "SUP-001 · Refund Online",
       "SUP-002 · Maklumat Zoom",
       "Catatan kes SUP-001"
     ]

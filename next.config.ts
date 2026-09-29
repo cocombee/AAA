@@ -6,7 +6,7 @@ const config: NextConfig = {
   devIndicators: false,
   basePath,
   output: staticPreview ? "export" : undefined,
-  trailingSlash: staticPreview,
+  trailingSlash: staticPreview && basePath !== "/v2",
   images: { qualities: [75, 90], unoptimized: staticPreview },
 };
 export default config;

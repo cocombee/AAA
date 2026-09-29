@@ -46,13 +46,13 @@
       {
         "kind": "AaaInfoCard",
         "description": "17 Okt · 3 jam · Belajar dari tempat anda.",
-        "subtitle": "RM199",
+        "subtitle": "RM49",
         "title": "Online langsung"
       },
       {
         "kind": "AaaInfoCard",
         "description": "7 Nov · 1 hari · Latihan bersama di Shah Alam.",
-        "subtitle": "RM299",
+        "subtitle": "RM129",
         "title": "Fizikal"
       }
     ]
@@ -168,7 +168,7 @@
         "value1": "Asas",
         "value2": "3 jam",
         "value3": "Online",
-        "value4": "RM199"
+        "value4": "RM49"
       },
       {
         "kind": "AaaDetailsTableRows4",
@@ -179,7 +179,7 @@
         "value1": "Asas",
         "value2": "1 hari",
         "value3": "Fizikal",
-        "value4": "RM299"
+        "value4": "RM129"
       }
     ]
   },
@@ -281,8 +281,8 @@
         "kind": "AaaDetailsTableRows2",
         "label1": "Pakej",
         "label2": "Jumlah setakat ini",
-        "value1": "Standard",
-        "value2": "RM199"
+        "value1": "Online",
+        "value2": "RM49"
       }
     ]
   },
@@ -293,8 +293,8 @@
         "kind": "AaaDetailsTableRows2",
         "label1": "Pakej",
         "label2": "Jumlah setakat ini",
-        "value1": "Bimbingan",
-        "value2": "RM299"
+        "value1": "Online+",
+        "value2": "RM129"
       }
     ]
   },
@@ -303,10 +303,10 @@
     "blocks": [
       {
         "kind": "AaaDetailsTableRows2",
-        "label1": "Pakej Standard",
+        "label1": "Pakej Online",
         "label2": "Jumlah",
-        "value1": "RM199",
-        "value2": "RM199"
+        "value1": "RM49",
+        "value2": "RM49"
       }
     ]
   },
@@ -315,12 +315,12 @@
     "blocks": [
       {
         "kind": "AaaDetailsTableRows3",
-        "label1": "Pakej Standard",
-        "label2": "Workbook",
+        "label1": "Pakej Online",
+        "label2": "eWorkbook",
         "label3": "Jumlah",
-        "value1": "RM199",
-        "value2": "RM29",
-        "value3": "RM228"
+        "value1": "RM79",
+        "value2": "Termasuk",
+        "value3": "RM79"
       }
     ]
   },
@@ -329,10 +329,10 @@
     "blocks": [
       {
         "kind": "AaaDetailsTableRows2",
-        "label1": "Pakej Bimbingan",
+        "label1": "Pakej Online+",
         "label2": "Jumlah",
-        "value1": "RM299",
-        "value2": "RM299"
+        "value1": "RM129",
+        "value2": "RM129"
       }
     ]
   },
@@ -349,8 +349,8 @@
         "value1": "LaburSaham",
         "value2": "17 Okt 2026 · Online",
         "value3": "9 pagi – 12 tengah hari · MYT",
-        "value4": "Standard · RM199",
-        "value5": "RM199"
+        "value4": "Online · RM49",
+        "value5": "RM49"
       },
       {
         "kind": "AaaInfoCard",
@@ -374,7 +374,7 @@
         "value1": "LaburSaham",
         "value2": "17 Okt 2026 · Online",
         "value3": "9 pagi – 12 tengah hari · MYT",
-        "value4": "Standard · RM199",
+        "value4": "Online · RM49",
         "value5": "RM29",
         "value6": "RM228"
       },
@@ -399,8 +399,8 @@
         "value1": "LaburSaham",
         "value2": "17 Okt 2026 · Online",
         "value3": "9 pagi – 12 tengah hari · MYT",
-        "value4": "Bimbingan · RM299",
-        "value5": "RM299"
+        "value4": "Online+ · RM129",
+        "value5": "RM129"
       },
       {
         "kind": "AaaInfoCard",
@@ -415,9 +415,9 @@
     "blocks": [
       {
         "kind": "AaaDetailsTableRows2",
-        "label1": "LaburSaham · Standard",
+        "label1": "LaburSaham · Online",
         "label2": "Peserta",
-        "value1": "RM199",
+        "value1": "RM49",
         "value2": "Nur Aina Ahmad"
       }
     ]
@@ -437,7 +437,7 @@
         "label3": "Jumlah",
         "value1": "Nur Aina Ahmad",
         "value2": "17 Okt 2026 · 9 pagi – 12 tengah hari",
-        "value3": "RM199"
+        "value3": "RM49"
       }
     ]
   },
@@ -456,7 +456,7 @@
         "label3": "Jumlah",
         "value1": "Nur Aina Ahmad",
         "value2": "17 Okt 2026 · 9 pagi – 12 tengah hari",
-        "value3": "RM199"
+        "value3": "RM49"
       }
     ]
   },
@@ -475,7 +475,7 @@
         "label3": "Jumlah",
         "value1": "Nur Aina Ahmad",
         "value2": "17 Okt 2026 · 9 pagi – 12 tengah hari",
-        "value3": "RM199"
+        "value3": "RM49"
       }
     ]
   },
@@ -505,7 +505,7 @@
         "kind": "AaaDetailsTableRows2",
         "label1": "Jumlah",
         "label2": "Kaedah",
-        "value1": "RM199",
+        "value1": "RM49",
         "value2": "FPX"
       },
       {
@@ -522,7 +522,7 @@
         "kind": "AaaDetailsTableRows2",
         "label1": "Jumlah",
         "label2": "Kaedah",
-        "value1": "RM199",
+        "value1": "RM49",
         "value2": "Kad debit / kredit"
       },
       {
@@ -563,7 +563,7 @@
     "blocks": [
       {
         "kind": "AaaInfoCard",
-        "description": "9 pagi – 12 tengah hari · Standard · AAA-ONL-001",
+        "description": "9 pagi – 12 tengah hari · Online · AAA-ONL-001",
         "subtitle": "DISAHKAN",
         "title": "17 Okt · LaburSaham online"
       },
@@ -584,7 +584,7 @@
         "label2": "Pakej",
         "label3": "Rujukan",
         "value1": "Nur Aina Ahmad",
-        "value2": "Standard",
+        "value2": "Online",
         "value3": "AAA-ONL-001"
       },
       {
@@ -655,7 +655,7 @@
       },
       {
         "kind": "AaaInfoCard",
-        "description": "Tambahan RM29 · Belum dibeli.",
+        "description": "eWorkbook tersedia dalam pakej Online+ dan Fizikal.",
         "subtitle": "PILIHAN",
         "title": "Workbook latihan"
       },
@@ -674,19 +674,19 @@
         "kind": "AaaInfoCard",
         "description": "LaburSaham online · FPX · Resit tersedia.",
         "subtitle": "DIBAYAR",
-        "title": "AAA-ONL-001 · RM199"
+        "title": "AAA-ONL-001 · RM49"
       },
       {
         "kind": "AaaInfoCard",
         "description": "Bengkel asas saham · Kad · Resit tersedia.",
         "subtitle": "DIBAYAR",
-        "title": "AAA-PHY-002 · RM299"
+        "title": "AAA-PHY-002 · RM129"
       },
       {
         "kind": "AaaInfoCard",
         "description": "Pengesahan bank belum diterima.",
         "subtitle": "SEDANG DISEMAK",
-        "title": "AAA-ONL-003 · RM199"
+        "title": "AAA-ONL-003 · RM49"
       }
     ]
   },
@@ -697,14 +697,14 @@
         "kind": "AaaDetailsTableRows6",
         "label1": "E-mel",
         "label2": "Program",
-        "label3": "Pakej Standard",
+        "label3": "Pakej Online",
         "label4": "Jumlah dibayar",
         "label5": "Kaedah",
         "label6": "Status",
         "value1": "aina@example.com",
         "value2": "LaburSaham · 17 Okt 2026",
-        "value3": "RM199",
-        "value4": "RM199",
+        "value3": "RM49",
+        "value4": "RM49",
         "value5": "FPX",
         "value6": "Dibayar · 28 Sep 2026"
       },
@@ -840,7 +840,7 @@
     "blocks": [
       {
         "kind": "AaaNotice",
-        "description": "12 Sep 2026 · Kelas asas saham · Standard · Rekod latihan",
+        "description": "12 Sep 2026 · Kelas asas saham · Online · Rekod latihan",
         "title": "Kehadiran disahkan"
       },
       {
@@ -862,13 +862,13 @@
       },
       {
         "kind": "AaaInfoCard",
-        "description": "AAA-ONL-003 · RM199",
+        "description": "AAA-ONL-003 · RM49",
         "subtitle": "BAYARAN",
         "title": "1 bayaran disemak"
       },
       {
         "kind": "AaaInfoCard",
-        "description": "SUP-001 · Refund Standard",
+        "description": "SUP-001 · Refund Online",
         "subtitle": "SOKONGAN",
         "title": "1 kes terbuka"
       },
@@ -891,7 +891,7 @@
     "blocks": [
       {
         "kind": "AaaInfoCard",
-        "description": "Online dan fizikal · Standard RM199 / RM299",
+        "description": "Online dan fizikal · Online RM49 / RM129",
         "subtitle": "DITERBITKAN",
         "title": "LaburSaham"
       },
@@ -918,7 +918,7 @@
         "label5": "Semakan terakhir",
         "value1": "Draf",
         "value2": "Sedia untuk semakan",
-        "value3": "Standard + Bimbingan",
+        "value3": "Online + Online+",
         "value4": "17 Okt online · 7 Nov fizikal",
         "value5": "Pasukan kandungan AAA"
       },
@@ -938,7 +938,7 @@
         "label2": "Keserasian",
         "label3": "Jenis",
         "value1": "RM29",
-        "value2": "Standard / Bimbingan",
+        "value2": "Online / Online+",
         "value3": "Tambahan pilihan"
       }
     ]
@@ -996,7 +996,7 @@
         "label4": "Replay",
         "label5": "Workbook",
         "value1": "AAA-ONL-001",
-        "value2": "Pakej Standard · Dibayar",
+        "value2": "Pakej Online · Dibayar",
         "value3": "Termasuk",
         "value4": "48 jam selepas diterbitkan",
         "value5": "Belum dibeli"
@@ -1012,21 +1012,21 @@
     "blocks": [
       {
         "kind": "AaaInfoCard",
-        "description": "FPX · Standard · Resit tersedia",
+        "description": "FPX · Online · Resit tersedia",
         "subtitle": "DIBAYAR",
-        "title": "AAA-ONL-001 · RM199"
+        "title": "AAA-ONL-001 · RM49"
       },
       {
         "kind": "AaaInfoCard",
         "description": "Pengesahan bank belum diterima",
         "subtitle": "SEDANG DISEMAK",
-        "title": "AAA-ONL-003 · RM199"
+        "title": "AAA-ONL-003 · RM49"
       },
       {
         "kind": "AaaInfoCard",
         "description": "Bayaran lewat diterima selepas tempahan tamat",
         "subtitle": "PERLU TINDAKAN",
-        "title": "AAA-ONL-006 · RM199"
+        "title": "AAA-ONL-006 · RM49"
       },
       {
         "kind": "AaaDetailsTableRows4",
@@ -1034,7 +1034,7 @@
         "label2": "Penyedia",
         "label3": "Status",
         "label4": "Tindakan",
-        "value1": "RM199",
+        "value1": "RM49",
         "value2": "FPX",
         "value3": "Sedang disemak",
         "value4": "Sahkan dengan penyedia bayaran"
@@ -1096,7 +1096,7 @@
         "kind": "AaaInfoCard",
         "description": "Nur Aina Ahmad · AAA-ONL-001 · Pemilik: Kewangan",
         "subtitle": "DALAM SEMAKAN",
-        "title": "SUP-001 · Refund Standard"
+        "title": "SUP-001 · Refund Online"
       },
       {
         "kind": "AaaInfoCard",
@@ -1188,8 +1188,8 @@
         "label2": "Pakej",
         "label3": "Jumlah asal",
         "value1": "LaburSaham online",
-        "value2": "Standard",
-        "value3": "RM199"
+        "value2": "Online",
+        "value3": "RM49"
       }
     ]
   },
@@ -1268,8 +1268,8 @@
         "label3": "Jumlah",
         "label4": "Status",
         "value1": "AAA-ONL-001",
-        "value2": "Standard",
-        "value3": "RM199",
+        "value2": "Online",
+        "value3": "RM49",
         "value4": "Refund disahkan"
       }
     ]

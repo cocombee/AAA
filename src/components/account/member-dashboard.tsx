@@ -4,32 +4,36 @@ import { useState } from "react";
 import Image from "next/image";
 import Link from "next/link";
 import { Brand } from "@/components/brand";
-import { NavigationIcon, type NavigationIconName } from "@/components/navigation-icon";
+import { Icon, type IconName } from "@/components/home/icon";
+import { SiteFooter } from "@/components/site-footer";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogDescription } from "@/components/ui/dialog";
 import { signOut } from "@/app/auth/actions";
 import { endDevelopmentSession } from "@/lib/development-session";
+import { homeNavigationFromDashboard } from "@/lib/home-navigation";
 import type { MemberDashboard, MemberBooking } from "@/lib/member-dashboard";
 
 const sections = ["Ringkasan", "Pendaftaran saya", "Tempahan", "Pembayaran", "Profil"] as const;
 type Section = typeof sections[number];
-const sectionIcons: Record<Section, NavigationIconName> = { Ringkasan: "grid", "Pendaftaran saya": "book-open", Tempahan: "calendar", Pembayaran: "payment", Profil: "user" };
+const sectionIcons: Record<Section, IconName> = { Ringkasan: "grid", "Pendaftaran saya": "graduation", Tempahan: "calendar", Pembayaran: "receipt", Profil: "user" };
+const sectionLabels: Record<Section, string> = { Ringkasan: "Dashboard", "Pendaftaran saya": "My Registrations", Tempahan: "My Bookings", Pembayaran: "Payments", Profil: "Profile" };
 const bookingLabels = { confirmed: "Akan datang", completed: "Selesai", cancelled: "Dibatalkan" };
 const orderLabels = { paid: "Dibayar", pending: "Menunggu", refunded: "Dipulangkan" };
 function date(value: string) { return new Intl.DateTimeFormat("ms-MY", { day: "numeric", month: "long", year: "numeric", timeZone: "Asia/Kuala_Lumpur" }).format(new Date(value)); }
 function amount(minor: number) { return new Intl.NumberFormat("ms-MY", { style: "currency", currency: "MYR" }).format(minor / 100); }
 
-export function MemberDashboardView({ data, signOutError = false }: { data: MemberDashboard; signOutError?: boolean }) {
-  const [section, setSection] = useState<Section>("Ringkasan");
+export function MemberDashboardView({ data, signOutError = false, initialSection }: { data: MemberDashboard; signOutError?: boolean; initialSection?: string }) {
+  const [section, setSection] = useState<Section>(() => sections.find((item) => item === initialSection) ?? "Ringkasan");
+  const [homeMenuOpen, setHomeMenuOpen] = useState(false);
   const [selected, setSelected] = useState<MemberBooking | null>(null);
   const upcoming = data.bookings.filter(b => b.status === "confirmed");
   const firstName = data.name.trim().split(/\s+/)[0] || "Ahli AAA";
   const displayed = section === "Ringkasan" ? upcoming.slice(0, 2) : data.bookings;
   return <div className="member-app">
-    <header className="member-header"><Link href="/" className="brand"><Brand /></Link><div><Button variant="outline" size="sm" asChild><Link href="/#program">Lihat program semasa</Link></Button>{data.preview ? <Button variant="ghost" size="sm" asChild><Link href="/" onClick={endDevelopmentSession}>Log keluar</Link></Button> : <form action={signOut}><Button variant="ghost" size="sm" type="submit">Log keluar</Button></form>}</div></header>
+    <div className="member-header-shell"><header className="member-header"><Button type="button" variant="ghost" size="sm" className="mobile-menu-button header-icon-control member-home-menu-button" aria-label="Home Menu" aria-expanded={homeMenuOpen} aria-controls="member-home-menu" onClick={() => setHomeMenuOpen(open => !open)}><Icon name="menu" /></Button><Link href="/" className="brand"><Brand /></Link><div className="member-header-actions"><Button variant="outline" size="sm" asChild><Link href="/#program">Lihat program semasa</Link></Button>{data.preview ? <Button variant="ghost" size="sm" asChild><Link href="/" onClick={endDevelopmentSession}>Log Out</Link></Button> : <form action={signOut}><Button variant="ghost" size="sm" type="submit">Log Out</Button></form>}</div><span className="member-mobile-header-spacer" aria-hidden="true" /></header><nav id="member-home-menu" className="mobile-inline-navigation page-shell" aria-label="Home Menu" hidden={!homeMenuOpen}>{homeNavigationFromDashboard.map(item => <Link href={item.href} key={item.href} onClick={() => setHomeMenuOpen(false)}><Icon name={item.icon} />{item.label}</Link>)}{data.preview ? <Link href="/" onClick={endDevelopmentSession}><Icon name="logout" />Log Out</Link> : <form action={signOut}><button type="submit"><Icon name="logout" />Log Out</button></form>}</nav></div>
     <div className="member-layout">
-      <aside className="member-sidebar"><div className="member-person"><span className="member-avatar" aria-hidden="true">{firstName.slice(0, 1)}</span><strong>{data.name}</strong><small>{data.preview ? "Akaun pembangunan" : "Ahli Asri Ahmad Academy"}</small></div><nav className="app-bottom-dock" aria-label="Dashboard pengguna">{sections.map(item => <button key={item} className="app-dock-item" data-section={item} type="button" aria-label={item === "Ringkasan" ? "Dashboard" : item} aria-current={item === section ? "page" : undefined} onClick={() => setSection(item)}><NavigationIcon name={sectionIcons[item]} /><span className="desktop-nav-label">{item === "Ringkasan" ? "Dashboard" : item}</span><span className="mobile-nav-label">{({ "Ringkasan": "Dashboard", "Pendaftaran saya": "Kelas", "Tempahan": "Tempahan", "Pembayaran": "Bayaran", "Profil": "Profil" })[item]}</span></button>)}</nav><div className="member-sidebar-note"><strong>Satu langkah pada satu masa.</strong><p>Pilih ilmu yang sesuai dengan perjalanan anda.</p></div></aside>
+      <aside className="member-sidebar"><div className="member-person"><span className="member-avatar" aria-hidden="true">{firstName.slice(0, 1)}</span><strong>{data.name}</strong><small>{data.preview ? "Akaun pembangunan" : "Ahli Asri Ahmad Academy"}</small></div><nav className="app-bottom-dock" aria-label="Dashboard Menu">{sections.map(item => <button key={item} className="app-dock-item" data-section={item} type="button" aria-label={sectionLabels[item]} aria-current={item === section ? "page" : undefined} onClick={() => setSection(item)}><Icon name={sectionIcons[item]} /><span className="desktop-nav-label">{sectionLabels[item]}</span><span className="mobile-nav-label">{sectionLabels[item]}</span></button>)}</nav><div className="member-sidebar-note"><strong>Satu langkah pada satu masa.</strong><p>Pilih ilmu yang sesuai dengan perjalanan anda.</p></div></aside>
       <main className="member-main" id="dashboard-main">
         <div className="member-page-heading"><span className="eyebrow">AKAUN ASRI AHMAD ACADEMY</span><h1>{section === "Ringkasan" ? `Selamat datang, ${firstName}.` : section}</h1><p>{section === "Ringkasan" ? "Semak pendaftaran, tarikh program dan rekod bayaran anda." : "Urus pendaftaran anda bersama Asri Ahmad Academy."}</p></div>
         {signOutError && <p className="account-message" role="alert">Log keluar tidak selesai. Sila cuba lagi.</p>}
@@ -41,6 +45,7 @@ export function MemberDashboardView({ data, signOutError = false }: { data: Memb
         {section === "Profil" && <section className="member-profile-panel"><h2>Profil akaun</h2><dl><div><dt>Nama</dt><dd>{data.name}</dd></div><div><dt>Alamat e-mel</dt><dd>{data.email || "Belum tersedia"}</dd></div><div><dt>Kaedah log masuk</dt><dd>{data.preview ? "Akses pembangunan tanpa Google" : "Google"}</dd></div></dl><p>{data.preview ? "Profil pembangunan. Tiada data akaun sebenar dipaparkan." : "Nama dan e-mel akaun disahkan melalui Google. Akaun yang sama akan digunakan pada aplikasi mudah alih."}</p></section>}
       </main>
     </div>
+    <SiteFooter />
     <Dialog open={Boolean(selected)} onOpenChange={open => { if (!open) setSelected(null); }}><DialogContent className="member-booking-dialog"><DialogHeader><DialogTitle>{selected?.title}</DialogTitle><DialogDescription>Maklumat tempahan {data.preview ? "pembangunan" : "anda"}.</DialogDescription></DialogHeader>{selected && <><dl className="member-booking-facts"><div><dt>Tarikh</dt><dd>{date(selected.startsAt)}</dd></div><div><dt>Format</dt><dd>{selected.format}</dd></div><div><dt>Tempat</dt><dd>{selected.location}</dd></div><div><dt>Status</dt><dd>{bookingLabels[selected.status]}</dd></div></dl><p className="member-muted">{data.preview ? "Ini ialah pratonton. Tiada pautan sesi, tiket atau bayaran sebenar dikeluarkan." : "Maklumat akses dan arahan penyertaan akan diberikan oleh AAA sebelum kelas."}</p></>}</DialogContent></Dialog>
   </div>;
 }
