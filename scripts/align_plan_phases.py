@@ -7,7 +7,7 @@ import shutil
 import uuid
 import xml.etree.ElementTree as ET
 
-root = Path('/Users/mrkokom/My Drive (cocombees@gmail.com)/AAA Podcast/Website/Plan')
+root = Path('/Users/mrkokom/Library/CloudStorage/GoogleDrive-cocombees@gmail.com/My Drive/AAA Podcast/Website/Plan')
 output = Path(__file__).resolve().parents[3] / 'outputs'
 backup = output / 'Plan Backups' / 'Before Phase Alignment'
 backup.mkdir(parents=True, exist_ok=True)
@@ -170,7 +170,7 @@ s = s[:start] + '''| Phase | Outcome |
 
 ''' + s[end:]
 s = s.replace('Begin Phase 1\'s backend/admin proof and Phase 1 responsive public preview', 'Begin Phase 1\'s backend/admin proof and registration-focused public preview, including tickets/Zoom and all release-one operations; keep Udemy-style features in Phase 2')
-s += '\n## Current implementation location and evidence\n\nCanonical source: `/Users/mrkokom/My Drive (cocombees@gmail.com)/Codex/Apps/AAA Website/work/Website`. Read task outputs for current implemented/tested/blocked states; planning is not runtime evidence. The parent task cwd discrepancy remains documented separately. Do not migrate existing users or seed design fixtures into real accounts.\n'
+s += '\n## Current implementation location and evidence\n\nCanonical source: `/Users/mrkokom/Library/CloudStorage/GoogleDrive-cocombees@gmail.com/My Drive/Codex/Apps/AAA Website/work/Website`. Read task outputs for current implemented/tested/blocked states; planning is not runtime evidence. The parent task cwd discrepancy remains documented separately. Do not migrate existing users or seed design fixtures into real accounts.\n'
 p.write_text(s)
 
 p = root / files[2]

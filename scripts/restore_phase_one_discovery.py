@@ -2,7 +2,7 @@
 from pathlib import Path
 from zipfile import ZipFile
 import json, re, shutil, xml.etree.ElementTree as ET
-root = Path('/Users/mrkokom/My Drive (cocombees@gmail.com)/AAA Podcast/Website/Plan')
+root = Path('/Users/mrkokom/Library/CloudStorage/GoogleDrive-cocombees@gmail.com/My Drive/AAA Podcast/Website/Plan')
 output = Path(__file__).resolve().parents[3] / 'outputs'
 backup = output / 'Plan Backups' / 'Before Class Discovery Restoration'
 files = ['AAA ONE Improved Website Plan.md','AAA ONE Implementation Handoff.md','AAA ONE Start Here.md','AAA ONE Hosting And Payments.md','AAA ONE Improved Roadmap.xmind']
